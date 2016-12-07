@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta charset="utf-8">
+    <title>US Wildfires</title>
+    <meta name="description" content="Analysis of wildfires by county with point location information.">
+    <meta name="author" content="Boyd Shearer @ University of Kentucky New Maps Plus">
+
+    <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,300,700,200" rel="stylesheet" type="text/css">
+
+    <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/skeleton.css">
+
+    <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="icon" type="image/png" href="images/favicon.ico">
+
+</head>
+
+<body>
+
+
+
+    <!-- header image 
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+
+
+    <!-- Full screen iframe for your CartoDB map
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<iframe width="100%" height="520" frameborder="0" src="https://nmp.carto.com/u/boyd/builder/46269ebe-bc96-11e6-b42f-0ecd1babdde5/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+    <!-- Caption
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <div class="container">
+        <div class="row">
+            <h6 style="margin-top:-5px;color:#777;font-weight: 300;"><i>Wildfire locations summarized by county polygons. Zoom in to find locations. <a href="https://nmp.carto.com/u/boyd/builder/46269ebe-bc96-11e6-b42f-0ecd1babdde5/embed">Full map</a></i></h6>
+        </div>
+
+
+        <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+        <div class="row">
+            <div class="twelve columns">
+                <h1>U.S. Wildfires</h1>
+                <h4 style="margin-top:-10px;color:#777;font-weight: 200;">An analysis of wildfire activity as reported by the national Fire Program Analysis (FPA) system</h4>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="one-half column">
+                <h5 style="font-weight: 300;">Wildfire by fire size, 1992-2012</h5>
+                <a data-flickr-embed="true"  href="https://www.flickr.com/photos/28640579@N02/31179013342/in/dateposted/" title="US Wildfires, 1992-2012"><img src="https://c7.staticflickr.com/6/5713/31179013342_fb0d891869.jpg" width="429" height="500" alt="US Wildfires, 1992-2012"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+            </div>
+            <div class="one-half column">
+               
+                <h5 style="font-weight: 300;">Timeline of fire activity, 2009-2013</h5>
+                <iframe width="100%" height="520" frameborder="0" src="https://nmp.carto.com/u/boyd/builder/3ea43d07-6d91-43fd-b869-9216b2908a3e/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+                <br><a href="https://nmp.carto.com/u/boyd/builder/3ea43d07-6d91-43fd-b869-9216b2908a3e/embed">Full map</a> | <a href="https://nmp.carto.com/u/boyd/builder/25606d22-34d5-4161-b803-ab35f0b3b339/embed">Day of year animation</a>
+              
+            </div>
+        </div>
+        
+        <hr>
+
+        <div class="row">
+            <div class="one-half column">
+                <h5 style="font-weight: 300;">Methodology</h5>
+                <p>This project was a demonstration of capability using large datasets and free and open source mapping software. This project used QGIS, PostGIS, and CARTO to make the maps and visualizations on this page. Over 1.5 million fire point locations were converted to SpatiaLite database and then classified and styled in QGIS. The map was exported as a tiff format and published on Flickr. Fire acreage by county (1992-2013) was calculated on an instance of PostgreSQL with the PostGIS extension. The functions ST_Intersects and SUM and GROUP BY were used to add the amount of acres burned in each polygon. Finally, this polygon layer and a subset of fire locations were styled, given interactivity, and animated in CARTO.</p>
+            </div>
+            <div class="one-half column">
+                <h5 style="font-weight: 300;">Data Source</h5>
+                <p><i>Spatial wildfire occurrence data for the United States</i>, Karen C. Short</p>
+
+                <p>Short, Karen C. 2015. Spatial wildfire occurrence data for the United States, 1992-2013 [FPA_FOD_20150323]. 3rd Edition. Fort Collins, CO: Forest Service Research Data Archive. <a href="http://dx.doi.org/10.2737/RDS-2013-0009.3">http://dx.doi.org/10.2737/RDS-2013-0009.3</a></p>
+                
+                <p>This data product contains a spatial database of wildfires that occurred in the United States from 1992 to 2013, generated by the national Fire Program Analysis (FPA) system. The wildfire records were acquired from the reporting systems of federal, state, and local fire organizations. The following core data elements were required for records to be included in this data product: discovery date, final fire size, and a point location at least as precise as Public Land Survey System (PLSS) section (1-square mile grid).</p>
+            </div>
+            
+        </div>
+        
+
+
+        <!-- Footer -->
+        <hr>
+        <div class="row"> Contact: <a href="https://geography.as.uky.edu/user/6491">Boyd Shearer</a>, instructor
+            <br>University of Kentucky, <a href="http://newmapsplus.uky.edu/">New Maps Plus</a>, December 2016.
+            <br> &nbsp;
+        </div>
+    </div>
+    <!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+
+</html>

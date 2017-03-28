@@ -3,7 +3,7 @@
           <head>
             <meta charset="utf-8">
             <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
-            <title>TBT_hillshade_270_50.tif</title>
+            <title>TBT_hillshade_270_50_rendered.tif</title>
 
             <!-- Leaflet -->
             <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
@@ -58,9 +58,9 @@
         // Map
         var map = L.map('map', {
             center: [38.0616051494, -84.526915461],
-            zoom: 16,
+            zoom: 18,
             minZoom: 11,
-            maxZoom: 16,
+            maxZoom: 18,
             layers: [osm]
         });
 
@@ -75,7 +75,7 @@
 	        return this._div;
         };
         title.update = function(props) {
-	        this._div.innerHTML = "TBT_hillshade_270_50.tif";
+	        this._div.innerHTML = "TBT_hillshade_270_50_rendered.tif";
         };
         title.addTo(map);
 

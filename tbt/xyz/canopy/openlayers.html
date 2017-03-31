@@ -13,8 +13,12 @@
             .olImageLoadError { display: none; }
             .olControlLayerSwitcher .layersDiv { border-radius: 10px 0 0 10px; }
         </style>
+        
+        <!-- Replace this javascript files to remove insecure mixed content -->
             <script src='https://maps.google.com/maps/api/js?sensor=false&v=3.7'></script>
-            <script src="https://www.openlayers.org/api/2.12/OpenLayers.js"></script>
+            <script src="https://openlayers.org/api/2.12/OpenLayers.js"></script>
+        <!-- Replace this javascript files to remove insecure mixed content -->
+
             <script>
               var map;
               var mapBounds = new OpenLayers.Bounds( -84.5797371053, 38.0262763937, -84.4740938167, 38.096933905);

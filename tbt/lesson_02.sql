@@ -1,0 +1,1 @@
+select * from dow_groundwater_springs

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset="UTF-8">
   <title>Boyd's little project portfolio</title>
@@ -7,39 +8,66 @@
 
   <link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great|Open+Sans+Condensed:300" rel="stylesheet">
   <style>
-  body {
-    font-family: 'Open Sans Condensed', sans-serif;
-    padding: 0;
-    margin: 0;
+    body {
+      font-family: 'Open Sans Condensed', sans-serif;
+      padding: 0;
+      margin: 0;
 
-  }
-  .header {
-    font-family: 'Fredericka the Great', cursive;
-    font-size:5vw;
-    margin: 10px 0px;
-    padding: 0;
-  }
-  .grid-container {
-  display: grid;
-  grid-row-gap: 10px;
-  grid-template-columns: 30% 30% 60%;
-}
-ul {
-  padding: 0 10px;
-}
+    }
 
-.left {
-  grid-column: 1;
-}
-.center {
-  grid-column: 2;
-}
+    .header {
+      font-family: 'Fredericka the Great', cursive;
+      font-size: 5vw;
+      margin: 10px 0px;
+      padding: 0;
+    }
 
-.right {
-  grid-column: 3;
-}
+    .grid-container {
+      display: grid;
+      /* grid-row-gap: 10px; */
+      grid-template-columns: 30% 40% 30%;
+      grid-auto-rows: 100px;
+    }
+
+    ul {
+      padding: 0 10px;
+      /*   font-size: 1.5vw; */
+
+    }
+
+    .left {
+      grid-column: 1;
+    }
+
+    .center {
+      grid-column: 2;
+    }
+
+    .right {
+      grid-column: 3;
+      z-index: 50;
+    }
+
+    .right-top {
+      grid-column: 3;
+      z-index: 100;
+    }
+
+    .left, .center, .right, .right-top {
+      grid-row: 1/1;
+      justify-self: center;
+    }
+
+    .tree {
+      font-size: 1vw;
+      font-family: 'Fredericka the Great', cursive;
+      letter-spacing: 0.2vw;
+      /* color: rgba(10, 10, 10, 0.5); */
+      color:#f4a460;
+    }
   </style>
 </head>
+
 <body>
   <div class="grid-container">
     <div class="left">
@@ -50,76 +78,76 @@ ul {
       <p class="header">Maps</p>
       <ul>
         <li><a href="collisions/">Lexington bike/ped v. car collisions</a></li>
-      <li><a href="Greenbo-Lake-Trail-Map/">Greenbo Lake SRP</a></li>
-      <li><a href="CastleRockStatePark3D/">Castle Rock State Park 3D (101MB)</a></li>
-      <li><a href="wildfires/">US Wildfires</a> </li>
-      <li><a href="tbt/">Town Branch Trail</a></li>
-    </ul>
+        <li><a href="Greenbo-Lake-Trail-Map/">Greenbo Lake SRP</a></li>
+        <li><a href="CastleRockStatePark3D/">Castle Rock State Park 3D (101MB)</a></li>
+        <li><a href="wildfires/">US Wildfires</a> </li>
+        <li><a href="tbt/">Town Branch Trail</a></li>
+      </ul>
     </div>
     <div class="right">
-<pre style="font-size:1vw;font-family: 'Fredericka the Great', cursive; letter-spacing: 0.2vw;color:rgba(10, 10,10, 0.5);">                                               .
-                                      .         ;
-         .              .              ;%     ;;
-           ,           ,                :;%  %;
-            :         ;                   :;%;'     .,
-   ,.        %;     %;            ;        %;'    ,;
-     ;       ;%;  %%;        ,     %;    ;%;    ,%'
-      %;       %;%;      ,  ;       %;  ;%;   ,%;'
-       ;%;      %;        ;%;        % ;%;  ,%;'
-        `%;.     ;%;     %;'         `;%%;.%;'
-         `:;%.    ;%%. %@;        %; ;@%;%'
-            `:%;.  :;bd%;          %;@%;'
-              `@%:.  :;%.         ;@@%;'
-                `@%.  `;@%.      ;@@%;
-                  `@%%. `@%%    ;@@%;
-                    ;@%. :@%%  %@@%;
-                      %@bd%%%bd%%:;
-                        #@%%%%%:;;
-                        %@@%%%::;
-                        %@@@%(o);  . '
-                        %@@@o%;:(.,'
-                    `.. %@@@o%::;
-                       `)@@@o%::;
-                        %@@(o)::;
-                       .%@@@@%::;
-                       ;%@@@@%::;.
-                      ;%@@@@%%:;;;.
-                  ...;%@@@@@%%:;;;;,..    Gilo97
-</pre>
-</div>
-<div class="right">
-<pre style="font-size:1vw;font-family: 'Fredericka the Great', cursive; letter-spacing: 0.2vw;color:rgba(10, 10,10, 0.5);z-index:9999;">                                               .
-                                  .         ;
-     .              .              ;%     ;;
-       ,           ,                :;%  %;
-        :         ;                   :;%;'     .,
+      <pre class="tree">                                               .
+                                .         ;
+   .              .              ;%     ;;
+     ,           ,                :;%  %;
+      :         ;                   :;%;'     .,
 ,.        %;     %;            ;        %;'    ,;
- ;       ;%;  %%;        ,     %;    ;%;    ,%'
-  %;       %;%;      ,  ;       %;  ;%;   ,%;'
-   ;%;      %;        ;%;        % ;%;  ,%;'
-    `%;.     ;%;     %;'         `;%%;.%;'
-     `:;%.    ;%%. %@;        %; ;@%;%'
-        `:%;.  :;bd%;          %;@%;'
-          `@%:.  :;%.         ;@@%;'
-            `@%.  `;@%.      ;@@%;
-              `@%%. `@%%    ;@@%;
-                ;@%. :@%%  %@@%;
-                  %@bd%%%bd%%:;
-                    #@%%%%%:;;
-                    %@@%%%::;
-                    %@@@%(o);  . '
-                    %@@@o%;:(.,'
-                `.. %@@@o%::;
-                   `)@@@o%::;
-                    %@@(o)::;
-                   .%@@@@%::;
-                   ;%@@@@%::;.
-                  ;%@@@@%%:;;;.
-              ...;%@@@@@%%:;;;;,..    Gilo97
-</pre>
-</div>
+;       ;%;  %%;        ,     %;    ;%;    ,%'
+%;       %;%;      ,  ;       %;  ;%;   ,%;'
+ ;%;      %;        ;%;        % ;%;  ,%;'
+  `%;.     ;%;     %;'         `;%%;.%;'
+   `:;%.    ;%%. %@;        %; ;@%;%'
+      `:%;.  :;bd%;          %;@%;'
+        `@%:.  :;%.         ;@@%;'
+          `@%.  `;@%.      ;@@%;
+            `@%%. `@%%    ;@@%;
+              ;@%. :@%%  %@@%;
+                %@bd%%%bd%%:;
+                  #@%%%%%:;;
+                  %@@%%%::;
+                  %@@@%(o);  . '
+                  %@@@o%;:(.,'
+              `.. %@@@o%::;
+                 `)@@@o%::;
+                  %@@(o)::;
+                 .%@@@@%::;
+                 ;%@@@@%::;.
+                ;%@@@@%%:;;;.
+            ...;%@@@@@%%:;;;;,..    Gilo97
+          </pre>
+    </div>
 
-
-</div>
+    <div class="right-top">
+      <pre class="tree">                                               .
+                                .         ;
+   .              .              ;%     ;;
+     ,           ,                :;%  %;
+      :         ;                   :;%;'     .,
+,.        %;     %;            ;        %;'    ,;
+;       ;%;  %%;        ,     %;    ;%;    ,%'
+%;       %;%;      ,  ;       %;  ;%;   ,%;'
+ ;%;      %;        ;%;        % ;%;  ,%;'
+  `%;.     ;%;     %;'         `;%%;.%;'
+   `:;%.    ;%%. %@;        %; ;@%;%'
+      `:%;.  :;bd%;          %;@%;'
+        `@%:.  :;%.         ;@@%;'
+          `@%.  `;@%.      ;@@%;
+            `@%%. `@%%    ;@@%;
+              ;@%. :@%%  %@@%;
+                %@bd%%%bd%%:;
+                  #@%%%%%:;;
+                  %@@%%%::;
+                  %@@@%(o);  . '
+                  %@@@o%;:(.,'
+              `.. %@@@o%::;
+                 `)@@@o%::;
+                  %@@(o)::;
+                 .%@@@@%::;
+                 ;%@@@@%::;.
+                ;%@@@@%%:;;;.
+            ...;%@@@@@%%:;;;;,..    Gilo97
+          </pre>
+    </div>
+  </div>
 </body>
+
 </html>

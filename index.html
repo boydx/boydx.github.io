@@ -32,7 +32,8 @@
       border-radius: 100%;
     }
 
-    h2, h1 {
+    h2,
+    h1 {
       font-family: 'Fugaz One', cursive;
       font-size: 3vw;
       margin: 10px 0px;
@@ -41,7 +42,7 @@
 
     h1 {
       font-size: 8vw;
-      margin:3px 0;
+      margin: 3px 0;
     }
 
     .grid-container {
@@ -49,7 +50,7 @@
       /* grid-row-gap: 10px; */
       grid-template-columns: 40% 50%;
       grid-column-gap: 10px;
-      height:100vh;
+      height: 100vh;
       background: linear-gradient(to bottom right, #b4b4b3, #708090);
     }
 
@@ -85,12 +86,17 @@
       justify-self: left;
     }
 
-    .tree {
+    #tree,
+    #tree-magic {
       font-size: 0.7vw;
       font-family: 'Fugaz One', cursive;
       letter-spacing: 0.25vw;
       /* color: rgba(10, 10, 10, 0.5); */
       /* color:#f4a460; */
+      position: relative;
+      margin-top:-110px;
+      -webkit-animation: shake 5s 1;
+      animation: shake 1s 1;
     }
 
     @media only screen and (max-width: 768px) {
@@ -99,13 +105,13 @@
         font-size: 10vw;
       }
 
-      h2{
+      h2 {
         font-size: 8vw;
       }
 
       .grid-container {
         grid-template-columns: 100%;
-        height:100%;
+        height: 100%;
         padding: 0 20px;
       }
 
@@ -148,7 +154,8 @@
     <div class="left">
       <img src="https://avatars1.githubusercontent.com/u/5296983?s=460&v=4" width="50%" style="margin:20px 0 0 0;">
       <h1>Boyd</h1>
-      <pre class="tree">                                               .
+      <pre id="tree-magic"></pre>
+      <pre id="tree" style="display:none;">                                               .
                                 .         ;
    .              .              ;%     ;;
      ,           ,                :;%  %;
@@ -174,18 +181,14 @@
                    %@@(o)::;
                   .%@@@@%::;
         ;         ;%@@@@%::;.
-      ..,,      .,..    ;%@@@@%%:;;;.
-                   .......  . .....;%@@@@@%%:;;;;,..Gilo97.b13.......
-          </pre>
-
+...,,      .,..    ;%@@@@%%:;;;.
+........  . .....;%@@@@@%%:;;;;,..Gilo97.b13.......</pre>
     </div>
     <div class="center">
       <h2>About</h2>
-      <p>This page offers a recent assortment of GitHub .io pages and repos associated
-        mostly with school projects. I teach mapping and GIS at the University of Kentucky
-        <a href="https://geography.as.uky.edu/user/6491" target="_blank">Department of Geography</a>.
-        I live in Lexington, Kentucky, the heart of the Bluegrass, and hike the hills and hollers
-        of our Cumberland mountains with a camera and my family.
+      <p>This page offers a recent assortment of GitHub .io pages and repos associated mostly with school projects. I teach mapping and GIS at the University of Kentucky
+        <a href="https://geography.as.uky.edu/user/6491" target="_blank">Department of Geography</a>. I live in Lexington, Kentucky, the heart of the Bluegrass, and hike the hills and hollers of our Cumberland mountains with my family and
+        <a href="https://www.flickr.com/photos/28640579@N02/" target="_blank">a camera</a>.
       </p>
       <h2>Maps</h2>
       <ul>
@@ -194,85 +197,39 @@
         <li><a href="collisions/" target="_blank">Bike/pedestrian v. car collisions</a></li>
         <li><a href="wildfires/" target="_blank">US Wildfires, 1992-2012</a> </li>
         <li><a href="CastleRockStatePark3D/" target="_blank">Castle Rock State Park 3D (101MB)</a></li>
-
       </ul>
       <h2>Projects</h2>
       <ul>
-        <li><a href="qgis/" target="_blank">QGIS training</a>
-        <li><a href="https://gitpitch.com/boydx/geosalad/uky" target="_blank">GitPitch teaching</a>
-        <li><a href="https://github.com/newmapsplus" target="_blank">New Maps Plus</a>
+        <li><a href="qgis/" target="_blank">QGIS training</a></li>
+        <li><a href="https://gitpitch.com/boydx/geosalad/uky" target="_blank">GitPitch teaching</a></li>
+        <li><a href="https://github.com/newmapsplus" target="_blank">New Maps Plus</a></li>
         <li><a href="color-time/" target="_blank">Color gradient maker</a></li>
-        <li><a href="https://github.com/boydx/outrageGIS-weather-stations" target="_blank">Weather stations</a>
+        <li><a href="https://github.com/boydx/outrageGIS-weather-stations" target="_blank">Weather stations</a></li>
       </ul>
-
       <h2>Contact</h2>
       <p>Contact me at <a href="https://www.outragegis.com/trails/contact/">outrageGIS mapping</a>.</p>
-
     </div>
-    <!-- <div class="right">
-      <pre class="tree">                                               .
-                                .         ;
-   .              .              ;%     ;;
-     ,           ,                :;%  %;
-      :         ;                   :;%;'     .,
-,.        %;     %;            ;        %;'    ,;
-;       ;%;  %%;        ,     %;    ;%;    ,%'
-%;       %;%;      ,  ;       %;  ;%;   ,%;'
- ;%;      %;        ;%;        % ;%;  ,%;'
-  `%;.     ;%;     %;'         `;%%;.%;'
-   `:;%.    ;%%. %@;        %; ;@%;%'
-      `:%;.  :;bd%;          %;@%;'
-        `@%:.  :;%.         ;@@%;'
-          `@%.  `;@%.      ;@@%;
-            `@%%. `@%%    ;@@%;
-              ;@%. :@%%  %@@%;
-                %@bd%%%bd%%:;
-                  #@%%%%%:;;
-                  %@@%%%::;
-                  %@@@%(o);  . '
-                  %@@@o%;:(.,'
-              `.. %@@@o%::;
-                 `)@@@o%::;
-                  %@@(o)::;
-                 .%@@@@%::;
-                 ;%@@@@%::;.
-                ;%@@@@%%:;;;.
-            ...;%@@@@@%%:;;;;,..    Gilo97
-          </pre>
-    </div>
-
-    <div class="right-top">
-      <pre class="tree">                                               .
-                                .         ;
-   .              .              ;%     ;;
-     ,           ,                :;%  %;
-      :         ;                   :;%;'     .,
-,.        %;     %;            ;        %;'    ,;
-;       ;%;  %%;        ,     %;    ;%;    ,%'
-%;       %;%;      ,  ;       %;  ;%;   ,%;'
- ;%;      %;        ;%;        % ;%;  ,%;'
-  `%;.     ;%;     %;'         `;%%;.%;'
-   `:;%.    ;%%. %@;        %; ;@%;%'
-      `:%;.  :;bd%;          %;@%;'
-        `@%:.  :;%.         ;@@%;'
-          `@%.  `;@%.      ;@@%;
-            `@%%. `@%%    ;@@%;
-              ;@%. :@%%  %@@%;
-                %@bd%%%bd%%:;
-                  #@%%%%%:;;
-                  %@@%%%::;
-                  %@@@%(o);  . '
-                  %@@@o%;:(.,'
-              `.. %@@@o%::;
-                 `)@@@o%::;
-                  %@@(o)::;
-                 .%@@@@%::;
-                 ;%@@@@%::;.
-                ;%@@@@%%:;;;.
-            ...;%@@@@@%%:;;;;,..    Gilo97
-          </pre>
-    </div> -->
   </div>
+  <script>
+    document.getElementById("tree").onload = showTree();
+    // randomly assign colors to ascii art characters and
+    function showTree() {
+      var myTreeArray = "",
+        blue = "",
+        myTree = "",
+        color = "";
+      myTree = document.getElementById('tree').innerHTML;
+      myTreeArray = myTree.split("");
+      for (i = 0; i < myTreeArray.length; i++) {
+        var x = Math.random() * 255,
+          y = Math.random() * 255,
+          z = Math.random() * 255
+        var color = "rgba(" + Math.floor(x) + ", " + Math.floor(y) + ", " + Math.floor(z) + ", 0.5)"
+        blue += "<span style='color:" + color + ";'>" + myTreeArray[i] + "</span>"
+        document.getElementById('tree-magic').innerHTML = blue
+      }
+    };
+  </script>
 </body>
 
 </html>

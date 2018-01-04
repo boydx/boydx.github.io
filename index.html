@@ -41,9 +41,9 @@
     .grid-container {
       display: grid;
       /* grid-row-gap: 10px; */
-      grid-template-columns: 30% 40% 30%;
+      grid-template-columns: 30% 70%;
       /* grid-auto-rows: 100px; */
-      height: 100vh;
+      height: 100%;
       background: linear-gradient(to bottom right, #b4b4b3, #708090);
     }
 
@@ -76,7 +76,7 @@
     .right,
     .right-top {
       grid-row: 1/1;
-      justify-self: center;
+      justify-self: left;
     }
 
     .tree {
@@ -87,7 +87,7 @@
       /* color:#f4a460; */
     }
 
-    @media only screen and (max-width: 768px) {
+    /* @media only screen and (max-width: 768px) {
       /* modle */
       .grid-container {
         grid-template-columns: 100%;
@@ -125,7 +125,7 @@
         align-self: center;
       }
 
-    }
+    } */
   </style>
 </head>
 
@@ -133,7 +133,36 @@
   <div class="grid-container">
     <div class="left" style="align-self: bottom;">
       <img src="https://avatars1.githubusercontent.com/u/5296983?s=460&v=4" width="50%" style="margin:20px 0 0 0;">
-      <p class="header" style="font-size:5vw;margin:3px 0;">Boyd</p>
+      <p class="header" style="font-size:8vw;margin:3px 0;">Boyd</p>
+      <pre class="tree">                                               .
+                                .         ;
+   .              .              ;%     ;;
+     ,           ,                :;%  %;
+      :         ;                   :;%;'     .,
+,.        %;     %;            ;        %;'    ,;
+;       ;%;  %%;        ,     %;    ;%;    ,%'
+%;       %;%;      ,  ;       %;  ;%;   ,%;'
+ ;%;      %;        ;%;        % ;%;  ,%;'
+  `%;.     ;%;     %;'         `;%%;.%;'
+   `:;%.    ;%%. %@;        %; ;@%;%'
+      `:%;.  :;bd%;          %;@%;'
+        `@%:.  :;%.         ;@@%;'
+          `@%.  `;@%.      ;@@%;
+            `@%%. `@%%    ;@@%;
+              ;@%. :@%%  %@@%;
+                %@bd%%%bd%%:;
+                  #@%%%%%:;;
+                  %@@%%%::;
+                  %@@@%(o);  . '
+                  %@@@o%;:(.,'
+              `.. %@@@o%::;
+                 `)@@@o%::;
+                   %@@(o)::;
+                  .%@@@@%::;
+        ;         ;%@@@@%::;.
+      ..,,      .,..    ;%@@@@%%:;;;.
+                   .........  . .....;%@@@@@%%:;;;;,..Gilo97.b13.........
+          </pre>
 
     </div>
     <div class="center">
@@ -149,8 +178,11 @@
       <ul>
         <li><a href="color-time/">Color ramp maker</a></li>
       </ul>
+
+      <p class="header">About</p>
+      Playing with the CSS propertied
     </div>
-    <div class="right">
+    <!-- <div class="right">
       <pre class="tree">                                               .
                                 .         ;
    .              .              ;%     ;;
@@ -212,7 +244,7 @@
                 ;%@@@@%%:;;;.
             ...;%@@@@@%%:;;;;,..    Gilo97
           </pre>
-    </div>
+    </div> -->
   </div>
 </body>
 

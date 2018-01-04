@@ -16,6 +16,7 @@
       color: whitesmoke;
       padding: 0;
       margin: 0;
+      background-color: #818d99;
     }
 
     a {
@@ -23,32 +24,37 @@
     }
 
     a:hover {
-      color: orange;
-      background-color: #0099cc;
+      color: black;
+      /* background-color: #0099cc; */
     }
 
     img {
       border-radius: 100%;
     }
 
-    .header {
+    h2, h1 {
       font-family: 'Fugaz One', cursive;
       font-size: 3vw;
       margin: 10px 0px;
       padding: 0;
     }
 
+    h1 {
+      font-size: 8vw;
+      margin:3px 0;
+    }
+
     .grid-container {
       display: grid;
       /* grid-row-gap: 10px; */
-      grid-template-columns: 30% 70%;
-      /* grid-auto-rows: 100px; */
-      height: 100%;
+      grid-template-columns: 40% 50%;
+      grid-column-gap: 10px;
+      height:100vh;
       background: linear-gradient(to bottom right, #b4b4b3, #708090);
     }
 
     ul {
-      padding: 0 10px;
+      padding: 0 16px;
       /*   font-size: 1.5vw; */
     }
 
@@ -75,23 +81,33 @@
     .center,
     .right,
     .right-top {
-      grid-row: 1/1;
+      grid-row: 1;
       justify-self: left;
     }
 
     .tree {
-      font-size: 0.9vw;
+      font-size: 0.7vw;
       font-family: 'Fugaz One', cursive;
-      letter-spacing: 0.3vw;
+      letter-spacing: 0.25vw;
       /* color: rgba(10, 10, 10, 0.5); */
       /* color:#f4a460; */
     }
 
-    /* @media only screen and (max-width: 768px) {
+    @media only screen and (max-width: 768px) {
       /* modle */
+
+      h1 {
+        font-size: 10vw;
+      }
+
+      h2{
+        font-size: 8vw;
+      }
+
       .grid-container {
         grid-template-columns: 100%;
-        height: 100%;
+        height:100%;
+         padding: 0 20px;
       }
 
       .left {
@@ -124,16 +140,15 @@
         justify-self: center;
         align-self: center;
       }
-
-    } */
+    }
   </style>
 </head>
 
 <body>
   <div class="grid-container">
-    <div class="left" style="align-self: bottom;">
+    <div class="left">
       <img src="https://avatars1.githubusercontent.com/u/5296983?s=460&v=4" width="50%" style="margin:20px 0 0 0;">
-      <p class="header" style="font-size:8vw;margin:3px 0;">Boyd</p>
+      <h1>Boyd</h1>
       <pre class="tree">                                               .
                                 .         ;
    .              .              ;%     ;;
@@ -161,26 +176,34 @@
                   .%@@@@%::;
         ;         ;%@@@@%::;.
       ..,,      .,..    ;%@@@@%%:;;;.
-                   .........  . .....;%@@@@@%%:;;;;,..Gilo97.b13.........
+                   .......  . .....;%@@@@@%%:;;;;,..Gilo97.b13.......
           </pre>
 
     </div>
     <div class="center">
-      <p class="header">Maps</p>
+      <h2>About</h2>
+      <p>This page offers an assortment of GitHub .io pages and repos associated
+        mostly with school projects. I teach mapping and GIS at the University of Kentucky
+        <a href="https://geography.as.uky.edu/user/6491" target="_blank">Department of Geography</a>.
+        I live in Lexington, Kentucky, the heart of the Bluegrass, and hike the hills and hollers
+        of our Cumberland mountains with a camera and my family.
+      </p>
+      <h2>Maps</h2>
       <ul>
-        <li><a href="collisions/">Lexington bike/ped v. car collisions</a></li>
+        <li><a href="collisions/">Bike/pedestrian v. car collisions</a></li>
         <li><a href="Greenbo-Lake-Trail-Map/">Greenbo Lake SRP</a></li>
         <li><a href="CastleRockStatePark3D/">Castle Rock State Park 3D (101MB)</a></li>
-        <li><a href="wildfires/">US Wildfires</a> </li>
+        <li><a href="wildfires/">US Wildfires, 1992-2012</a> </li>
         <li><a href="tbt/">Town Branch Trail</a></li>
+        <li><a href="tbt/">Urban Tree Canopy study</a></li>
       </ul>
-      <p class="header">Projects</p>
+      <h2>Projects</h2>
       <ul>
         <li><a href="color-time/">Color ramp maker</a></li>
       </ul>
 
       <p class="header">About</p>
-      Playing with the CSS propertied
+      Playing with the CSS properties
     </div>
     <!-- <div class="right">
       <pre class="tree">                                               .

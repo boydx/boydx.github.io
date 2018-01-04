@@ -6,17 +6,34 @@
   <title>Boyd's little project portfolio</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great|Open+Sans+Condensed:300" rel="stylesheet">
+  <!-- <link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great|Open+Sans+Condensed:300" rel="stylesheet"> -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Special+Elite" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Fugaz+One|Open+Sans" rel="stylesheet">
   <style>
     body {
-      font-family: 'Open Sans Condensed', sans-serif;
+      font-family: 'Open Sans', sans-serif;
+      color: whitesmoke;
       padding: 0;
       margin: 0;
     }
 
+    a {
+      color: whitesmoke;
+    }
+
+    a:hover {
+      color: orange;
+      background-color: #0099cc;
+    }
+
+    img {
+      border-radius: 100%;
+    }
+
     .header {
-      font-family: 'Fredericka the Great', cursive;
-      font-size: 5vw;
+      font-family: 'Fugaz One', cursive;
+      font-size: 3vw;
       margin: 10px 0px;
       padding: 0;
     }
@@ -25,19 +42,19 @@
       display: grid;
       /* grid-row-gap: 10px; */
       grid-template-columns: 30% 40% 30%;
-      grid-auto-rows: 100px;
+      /* grid-auto-rows: 100px; */
       height: 100vh;
-      background: linear-gradient(to bottom right, #faebd7, #708090);
+      background: linear-gradient(to bottom right, #b4b4b3, #708090);
     }
 
     ul {
       padding: 0 10px;
       /*   font-size: 1.5vw; */
-
     }
 
     .left {
       grid-column: 1;
+      text-align: center;
     }
 
     .center {
@@ -54,25 +71,69 @@
       z-index: 100;
     }
 
-    .left, .center, .right, .right-top {
+    .left,
+    .center,
+    .right,
+    .right-top {
       grid-row: 1/1;
       justify-self: center;
     }
 
     .tree {
-      font-size: 1vw;
-      font-family: 'Fredericka the Great', cursive;
-      letter-spacing: 0.2vw;
+      font-size: 0.9vw;
+      font-family: 'Fugaz One', cursive;
+      letter-spacing: 0.3vw;
       /* color: rgba(10, 10, 10, 0.5); */
-      color:#f4a460;
+      /* color:#f4a460; */
+    }
+
+    @media only screen and (max-width: 768px) {
+      /* modle */
+      .grid-container {
+        grid-template-columns: 100%;
+        height: 100%;
+      }
+
+      .left {
+        grid-column: 1;
+        grid-row: 1;
+        text-align: center;
+      }
+
+      .center {
+        grid-column: 1;
+        grid-row: 2;
+      }
+
+      .right {
+        grid-column: 1;
+        grid-row: 3;
+        z-index: 50;
+      }
+
+      .right-top {
+        grid-column: 1;
+        grid-row: 3;
+        z-index: 100;
+      }
+
+      .left,
+      .center,
+      .right,
+      .right-top {
+        justify-self: center;
+        align-self: center;
+      }
+
     }
   </style>
 </head>
 
 <body>
   <div class="grid-container">
-    <div class="left">
-      <p class="header">Boyd</p>
+    <div class="left" style="align-self: bottom;">
+      <img src="https://avatars1.githubusercontent.com/u/5296983?s=460&v=4" width="50%" style="margin:20px 0 0 0;">
+      <p class="header" style="font-size:5vw;margin:3px 0;">Boyd</p>
 
     </div>
     <div class="center">
@@ -83,6 +144,10 @@
         <li><a href="CastleRockStatePark3D/">Castle Rock State Park 3D (101MB)</a></li>
         <li><a href="wildfires/">US Wildfires</a> </li>
         <li><a href="tbt/">Town Branch Trail</a></li>
+      </ul>
+      <p class="header">Projects</p>
+      <ul>
+        <li><a href="color-time/">Color ramp maker</a></li>
       </ul>
     </div>
     <div class="right">

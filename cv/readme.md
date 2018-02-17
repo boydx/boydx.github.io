@@ -1,8 +1,16 @@
 # Boyd Shearer
 
-###### P.O. Box 2054 | Lexington, Kentucky 40508 | (859) 806-3938 | [Email](https://outrageGIS.com/trails/contact)
+###### P.O. Box 2054 | Lexington, Kentucky 40508 | (859) 806-3938 | [email](https://outrageGIS.com/trails/contact) | [view online](http://boydx.github.io/cv/)
 
 Cartographer and mapping technology instructor with 10+ years of creative teaching and course development at the undergraduate and graduate levels. With 20+ years of practical web design and Linux server administration, seeks challenging opportunities to learn and teach open source mapping skills and production cartography. Has a Master's in Geography and significant field mapping experience.
+<hr>
+
+## Experience
+
+| Spatial apps | Programming | Design |
+| :------: | :------: | :------: |
+| QGIS, ArcGIS, PostGIS | JavaScript, Python, Bash, PL/pgSQL | HTML/CSS, CartoCSS, Adobe CC |
+
 <hr>
 
 ## Education
@@ -127,14 +135,3 @@ Published by Lexington Division of Planning., Lexington, KY, <br>(Won 2nd Place 
 * 1997	“The Red at Red River Gorge,” WRFL 17 minutes. [Audio](https://www.uky.edu/Projects/TDA/audio/climbing.mp3)     
 *  1997	“Defeat in the Streets: UK's 1997 NCAA Loss,” WRFL, 3 minutes. [Audio](https://www.uky.edu/Projects/TDA/audio/weep-no-more.mp3)      
 * 1997	“The Children of Constitution Square,” WRFL, 6 minutes. [Audio](https://www.uky.edu/Projects/TDA/audio/constitution.mp3)
-
-<hr>
-
-RESEARCH & PRODUCTION INTERESTS
-
-
-Public Parks: the interaction between cultural, historical, and physical landscapes; recreational use of national parks and forests; segregated black park history.
-
-GIS, GPS, & Cartography: trail mapping and difficulty metrics; raster processing of DEMs, aerial photography, and land cover data for hillshade and 3D maps; real-time weather map deployment; spatial analysis of hazards and social distress.
-
-Physical Geography: mountain climates and orographic weather events; geomorphology of karst; public education of public park landforms and weather.

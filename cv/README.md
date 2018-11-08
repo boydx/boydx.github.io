@@ -17,7 +17,7 @@ Cartographer and mapping technology instructor with 10+ years of creative teachi
 
 M.A., Geography, University of Kentucky.<br>Thesis: The Daily Aesthetic [http://www.uky.edu/Projects/TDA]: A Multimedia Exploration of Leisure and Recreation in Lexington's Segregated Park System, 1999
 
-B.A., Geography, Indiana University.<br>Thesis: Abandonment and Generation: Technology & Culture in Indiana Public Parks, 1994
+B.A., Geography/Studio Art Indiana University.<br>Thesis: Abandonment and Generation: Technology & Culture in Indiana Public Parks, 1994
 
 <hr>
 

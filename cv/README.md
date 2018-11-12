@@ -2,7 +2,7 @@
 
 ###### P.O. Box 2054 | Lexington, Kentucky 40508 | (859) 806-3938 | [email](https://outrageGIS.com/trails/contact) | [view online](http://boydx.github.io/cv/)
 
-Cartographer and mapping technology instructor with 10+ years of creative teaching and course development at the undergraduate and graduate levels. 20+ years of print map publishing, web design, server administration, and GIS consulting. Seeks challenging opportunities to learn and teach open-source mapping skills and production cartography. Has a Master's in Geography and significant field mapping experience.
+Cartographer and mapping technology instructor with 10+ years of creative teaching and course development at the undergraduate and graduate levels. 20+ years of print map publishing, web design, server administration, and GIS consulting. Seeks challenging opportunities to learn and teach open-source mapping skills and production cartography. Has a Master's in Geography with significant training in studio fine arts.
 <hr>
 
 ## Experience
@@ -15,9 +15,13 @@ Cartographer and mapping technology instructor with 10+ years of creative teachi
 
 ## Education
 
-M.A., Geography, University of Kentucky.<br>Thesis: The Daily Aesthetic [http://www.uky.edu/Projects/TDA]: A Multimedia Exploration of Leisure and Recreation in Lexington's Segregated Park System, 1999
+### University of Kentucky
+M.A., Geography, 1999
+<br>Thesis: The Daily Aesthetic [[http://www.uky.edu/Projects/TDA](http://www.uky.edu/Projects/TDA)]: A Multimedia Exploration of Leisure and Recreation in Lexington's Segregated Park System, 1999
 
-B.A., Geography/Studio Art Indiana University.<br>Thesis: Abandonment and Generation: Technology & Culture in Indiana Public Parks, 1994
+### Indiana University
+B.A., Major in Geography, Minor in Studio Fine Arts and Mathematics. 1994
+<br>Thesis: Abandonment and Generation: Technology & Culture in Indiana Public Parks
 
 <hr>
 

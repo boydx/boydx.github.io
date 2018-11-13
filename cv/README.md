@@ -2,7 +2,8 @@
 
 ## Lecturer
 Department of Geography, University of Kentucky<br>
-Lexington, Kentucky 40508<br>
+817 Patterson Office Tower<br>
+Lexington, Kentucky 40506<br>
 (859) 806-3938 | [email](https://outrageGIS.com/trails/contact) | [view online](http://boydx.github.io/)
 
 Cartographer and mapping technology instructor. 10+ years of creative teaching and course development and 20+ years of map publishing, web design, and GIS consulting. Creates challenging and rewarding experiences learning open-source mapping, production cartography, and field mapping techniques. Current research uses lidar, digital elevation models, and terrain analysis. 

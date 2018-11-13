@@ -1,9 +1,25 @@
 # Boyd Shearer
 
-###### P.O. Box 2054 | Lexington, Kentucky 40508 | (859) 806-3938 | [email](https://outrageGIS.com/trails/contact) | [view online](http://boydx.github.io/cv/)
+## Lecturer
+Department of Geography, University of Kentucky<br>
+Lexington, Kentucky 40508<br>
+(859) 806-3938 | [email](https://outrageGIS.com/trails/contact) | [view online](http://boydx.github.io/cv/)
 
-Cartographer and mapping technology instructor with 10+ years of creative teaching and course development at the undergraduate and graduate levels. 20+ years of print map publishing, web design, server administration, and GIS consulting. Seeks challenging opportunities to learn and teach open-source mapping skills and production cartography. Has a Master's in Geography with significant training in studio fine arts.
+Cartographer and mapping technology instructor. 10+ years of creative teaching and course development and 20+ years of map publishing, web design, and GIS consulting. Creates challenging and rewarding experiences learning open-source mapping, production cartography, and field mapping techniques. Current research uses lidar, digital elevation models, and terrain analysis.    
 <hr>
+
+
+## Education
+
+### University of Kentucky
+M.A., Geography. 1999
+<br>Thesis: The Daily Aesthetic [[http://www.uky.edu/Projects/TDA](http://www.uky.edu/Projects/TDA)]: A Multimedia Exploration of Leisure and Recreation in Lexington's Segregated Park System, 1999
+
+### Indiana University
+B.A., Major in Geography, Minor in Studio Fine Arts and Mathematics. 1994
+<br>Thesis: Abandonment and Generation: Technology & Culture in Indiana Public Parks
+
+<hr style="border-style: hidden hidden dotted hidden; border-color:#555;">
 
 ## Experience
 
@@ -11,19 +27,7 @@ Cartographer and mapping technology instructor with 10+ years of creative teachi
 | :------: | :------: | :------: |
 | QGIS, ArcGIS, PostGIS | JavaScript, Python, Bash | HTML/CSS, Adobe Creative Cloud |
 
-<hr>
-
-## Education
-
-### University of Kentucky
-M.A., Geography, 1999
-<br>Thesis: The Daily Aesthetic [[http://www.uky.edu/Projects/TDA](http://www.uky.edu/Projects/TDA)]: A Multimedia Exploration of Leisure and Recreation in Lexington's Segregated Park System, 1999
-
-### Indiana University
-B.A., Major in Geography, Minor in Studio Fine Arts and Mathematics. 1994
-<br>Thesis: Abandonment and Generation: Technology & Culture in Indiana Public Parks
-
-<hr>
+<hr style="border-style: hidden hidden dotted hidden; border-color:#555;">
 
 ## Teaching
 
@@ -56,8 +60,12 @@ Recent class project
 
 * Spring 2017 GEO 409: [Town Branch Trail](https://reece2ke.github.io/geo409_site/)
 
-### Natural Resources and Environmental Science
-###### 2013–present | College of Agriculture, University of Kentucky
+<hr>
+
+## Past Instuctor Positions
+
+### Adjunct Instructor, Natural Resources and Environmental Science
+###### 2013–2017 | College of Agriculture, University of Kentucky
 
 Instructor for field-based GIS applications. Course uses mobile GPS apps, ArcGIS, and Lidar and NAIP datasets to measure tree canopy and 3D attributes in our areas of interest. Created content for all courses.
 
@@ -67,7 +75,7 @@ Recent class project
 
 * Fall 2017: [Lexington Neighborhoods Tree Canopy Height Study](https://rvirto01.github.io/NRE355_Tree_canopy_study/)
 
-### Department of History, Languages, and Social Sciences
+### Adjunct Instructor, Department of History, Languages, and Social Sciences
 ###### 2006–2013 | Bluegrass Community and Technical College
 
 In-class and online instructor for introductory geography classes.
@@ -85,11 +93,11 @@ Recent student project
 
 ### Recent teaching workshops
 
- 2017	“Fundamentals of QGIS” and “Raster processing and tile set creation with QGIS”<br>Kentucky Association of Mapping Professionals Annual meeting, September 5.
+2017 “Fundamentals of QGIS” and “Raster processing and tile set creation with QGIS”<br>Kentucky Association of Mapping Professionals Annual meeting, September 5.
 
-2017	“Introduction to QGIS Short Course”<br>University of Kentucky Department of Geography	and Kentucky Association of Mapping Professionals, June 27.
+2017 “Introduction to QGIS Short Course”<br>University of Kentucky Department of Geography	and Kentucky Association of Mapping Professionals, June 27.
 
-2016	“Map Making with QGIS” and “Learning the Basics of CARTO” <br>Kentucky Association of Mapping Professionals Annual meeting, October 18.
+2016 “Map Making with QGIS” and “Learning the Basics of CARTO” <br>Kentucky Association of Mapping Professionals Annual meeting, October 18.
 
 2016, 2015	“UKy Summer Map Camp”<br>University of Kentucky Department of Geography, Summer. [Learn what middle school kids can map](https://plus.google.com/118185113381405635119).
 
@@ -134,8 +142,18 @@ Published by Lexington Division of Planning., Lexington, KY, <br>(Won 2nd Place 
 
 * 2001 At Leisure's Edge: A Journey through Kentucky's Historic Black Parks
 <br>Kentucky Educational Television, 57 minutes. Writer, producer, and editor.<br>
-[Video](https://www.boydshearer.com/media/AtLeisuresEdge/index.php) (with many animated maps)
-*  1997	”Mother's Day in Gratz Park,” WRFL, 8 minutes. [audio](https://www.uky.edu/Projects/TDA/audio/mayfest.mp3)
+[Video](https://www.boydshearer.com/media/AtLeisuresEdge)
+* 1997	”Mother's Day in Gratz Park,” WRFL, 8 minutes. [audio](https://www.uky.edu/Projects/TDA/audio/mayfest.mp3)
 * 1997	“The Red at Red River Gorge,” WRFL 17 minutes. [audio](https://www.uky.edu/Projects/TDA/audio/climbing.mp3)
-*  1997	“Defeat in the Streets: UK's 1997 NCAA Loss,” WRFL, 3 minutes. [audio](https://www.uky.edu/Projects/TDA/audio/weep-no-more.mp3)
+* 1997	“Defeat in the Streets: UK's 1997 NCAA Loss,” WRFL, 3 minutes. [audio](https://www.uky.edu/Projects/TDA/audio/weep-no-more.mp3)
 * 1997	“The Children of Constitution Square,” WRFL, 6 minutes. [audio](https://www.uky.edu/Projects/TDA/audio/constitution.mp3)
+
+## Grants Received
+
+* 1999 Kentucky Educational Television, $19,000.      
+* 1998 The Kentucky Humanities Council, $10,000.      
+* 1997 The Kentucky Oral History Commission, $4,000.      
+* 1997 The Lexington Arts and Cultural Council, $2,000.     
+* 1996 The Kentucky Humanities Council, $1,000.     
+* 1996 The Kentucky Oral History Commission, $1,000.
+

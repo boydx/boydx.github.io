@@ -22,6 +22,7 @@ B.A., Major in Geography, Minor in Studio Fine Arts and Mathematics. 1994
 <br>Thesis: *Abandonment and Generation: Technology & Culture in Indiana Public Parks*
 </div>
 
+<hr> 
 
 ## Teaching Experience
 

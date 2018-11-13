@@ -11,7 +11,7 @@ Cartographer and mapping technology instructor. 10+ years of creative teaching a
 <hr>
 
 ## Education
-<div id="education">
+<!-- <div id="education"> -->
 
 ### University of Kentucky
 M.A., Geography. 1999
@@ -20,7 +20,7 @@ M.A., Geography. 1999
 ### Indiana University
 B.A., Major in Geography, Minor in Studio Fine Arts and Mathematics. 1994
 <br>Thesis: *Abandonment and Generation: Technology & Culture in Indiana Public Parks*
-</div>
+<!-- </div> -->
 
 <hr> 
 
@@ -119,6 +119,9 @@ Professionals Quarterly Meeting, August 5, 2010.
 2001     “outrageGIS mapping” booth display, Southeastern Division of the Association of American Geographers annual conference, November 17-20.
 
 1996     “The Daily Aesthetic.” Southeastern Division of the Association of American Geographers annual conference.
+
+<hr>
+
 
 ## Technology Experience
 

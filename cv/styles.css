@@ -1,0 +1,43 @@
+/* styles for markdown-pdf conversion */
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,600,700,800');
+
+body {
+    color: #222222;
+    font-family: 'Raleway', sans-serif;
+    background-color: #ffffff; 
+}
+
+h1 {
+
+    font-weight: 800;
+
+}
+
+h2  {
+    font-weight: 700;
+    /* margin: 0px; */
+}
+
+h3, h4 {
+    font-weight: 600;
+    margin: 3px 0 3px 0;
+    /* margin: 0px; */
+}
+
+#education p {
+    margin-top: 3px;
+    /* margin: 0px; */
+}
+
+hr {
+    border: 0px;
+    height: 2px;
+    border-bottom: 1px solid;
+    border-color:#555555;
+}
+
+.dotted {
+    border-style: hidden hidden dotted hidden; 
+    border-color:#555555;
+    border-width:1px;
+}

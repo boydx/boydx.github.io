@@ -3,37 +3,38 @@
 ## Lecturer
 Department of Geography, University of Kentucky<br>
 Lexington, Kentucky 40508<br>
-(859) 806-3938 | [email](https://outrageGIS.com/trails/contact) | [view online](http://boydx.github.io/cv/)
+(859) 806-3938 | [email](https://outrageGIS.com/trails/contact) | [view online](http://boydx.github.io/)
 
-Cartographer and mapping technology instructor. 10+ years of creative teaching and course development and 20+ years of map publishing, web design, and GIS consulting. Creates challenging and rewarding experiences learning open-source mapping, production cartography, and field mapping techniques. Current research uses lidar, digital elevation models, and terrain analysis.    
+Cartographer and mapping technology instructor. 10+ years of creative teaching and course development and 20+ years of map publishing, web design, and GIS consulting. Creates challenging and rewarding experiences learning open-source mapping, production cartography, and field mapping techniques. Current research uses lidar, digital elevation models, and terrain analysis. 
+
 <hr>
 
-
 ## Education
+<div id="education">
 
 ### University of Kentucky
 M.A., Geography. 1999
-<br>Thesis: The Daily Aesthetic [[http://www.uky.edu/Projects/TDA](http://www.uky.edu/Projects/TDA)]: A Multimedia Exploration of Leisure and Recreation in Lexington's Segregated Park System, 1999
+<br>Thesis: *The Daily Aesthetic [[http://www.uky.edu/Projects/TDA](http://www.uky.edu/Projects/TDA)]: A Multimedia Exploration of Leisure and Recreation in Lexington's Segregated Park System*
 
 ### Indiana University
 B.A., Major in Geography, Minor in Studio Fine Arts and Mathematics. 1994
-<br>Thesis: Abandonment and Generation: Technology & Culture in Indiana Public Parks
+<br>Thesis: *Abandonment and Generation: Technology & Culture in Indiana Public Parks*
+</div>
 
-<hr style="border-style: hidden hidden dotted hidden; border-color:#555;">
 
-## Experience
+## Technology
 
 | Spatial apps | Programming | Design |
 | :------: | :------: | :------: |
 | QGIS, ArcGIS, PostGIS | JavaScript, Python, Bash | HTML/CSS, Adobe Creative Cloud |
 
-<hr style="border-style: hidden hidden dotted hidden; border-color:#555;">
 
-## Teaching
+
+## Teaching Experience
 
 ### New Maps Plus
-###### 2015–present | Department of Geography, University of Kentucky
-Instructor for online program awarding a graduate certificate in open source mapping. Responsibilities include teaching and developing a curriculum that integrates QGIS, PostGIS, OpenStreetMap data, Leaflet.js, and other mapping libraries with the common web stack to perform and visualize spatial analysis.
+#### 2015–present | Department of Geography, University of Kentucky
+Instructor for online program awarding a Graduate Certificate and Master of Science degree in open source mapping. Responsibilities include teaching and developing a curriculum that integrates QGIS, PostGIS, OpenStreetMap data, Leaflet.js, and other mapping libraries with the common web stack to perform and visualize spatial analysis.
 
 Courses taught
 * MAP 671 Intro to Open Source Mapping and Data Management
@@ -46,9 +47,9 @@ Example MAP 671 module from Spring 2018
 
 
 ### Geography
-###### 2008–present | Department of Geography, University of Kentucky
+#### 2008–present | Department of Geography, University of Kentucky
 
-Instructor for in-class undergraduate classes. Advanced courses have focused on ArcGIS and Python. More recently, the content has shifted to a more open-source curriculum. Created content for all courses.
+Instructor for in-class undergraduate classes. Advanced courses have focused on ArcGIS and Python and open-source GIS platforms. Created content for all courses.
 
 Courses taught
 * GEO 409 Advanced GIS
@@ -62,10 +63,10 @@ Recent class project
 
 <hr>
 
-## Past Instuctor Positions
+## Past Instructor Positions
 
 ### Adjunct Instructor, Natural Resources and Environmental Science
-###### 2013–2017 | College of Agriculture, University of Kentucky
+#### 2013–2017 | College of Agriculture, University of Kentucky
 
 Instructor for field-based GIS applications. Course uses mobile GPS apps, ArcGIS, and Lidar and NAIP datasets to measure tree canopy and 3D attributes in our areas of interest. Created content for all courses.
 
@@ -76,7 +77,7 @@ Recent class project
 * Fall 2017: [Lexington Neighborhoods Tree Canopy Height Study](https://rvirto01.github.io/NRE355_Tree_canopy_study/)
 
 ### Adjunct Instructor, Department of History, Languages, and Social Sciences
-###### 2006–2013 | Bluegrass Community and Technical College
+#### 2006–2013 | Bluegrass Community and Technical College
 
 In-class and online instructor for introductory geography classes.
 
@@ -89,64 +90,104 @@ Recent student project
 
 * Fall 2012 GEO 172: [Rephotographing Lexington's streetscapes](http://district.bluegrass.kctcs.edu/bshearer0002/geo172/RephotoLex/)
 
-<hr>
 
 ### Recent teaching workshops
 
 2017 “Fundamentals of QGIS” and “Raster processing and tile set creation with QGIS”<br>Kentucky Association of Mapping Professionals Annual meeting, September 5.
 
-2017 “Introduction to QGIS Short Course”<br>University of Kentucky Department of Geography	and Kentucky Association of Mapping Professionals, June 27.
+2017 “Introduction to QGIS Short Course”<br>University of Kentucky Department of Geography    and Kentucky Association of Mapping Professionals, June 27.
 
 2016 “Map Making with QGIS” and “Learning the Basics of CARTO” <br>Kentucky Association of Mapping Professionals Annual meeting, October 18.
 
-2016, 2015	“UKy Summer Map Camp”<br>University of Kentucky Department of Geography, Summer. [Learn what middle school kids can map](https://plus.google.com/118185113381405635119).
+2016, 2015    “UKy Summer Map Camp”<br>University of Kentucky Department of Geography, Summer. [Learn what middle school kids can map](https://plus.google.com/118185113381405635119).
+
+## Presentations
+
+2010    “Great Smoky Mountains: A 2nd Edition,” Kentucky Association of Mapping
+Professionals Quarterly Meeting, August 5, 2010.
+
+2009    “The Sheltowee Trace Trail Map,” Appalachian Studies Association Annual
+        Conference, March 27-29.
+
+2008    “The Great Smoky Mountains Trail Atlas,” Appalachian Studies Association
+        annual conference, March 28-30.
+
+2007    “The Great Smoky Mountains Trail Atlas,” map presentation, North American
+        Cartographic Information Society annual meeting, October 12-15.
+
+2006    “The Big South Fork Trail Guide,” map presentation, GIS Day University of
+        Kentucky, November 15.
+
+2005    “Mapping Recreation with GPS, GIS, and Cartographic Art,” Department of
+        Geography Colloquium Series.
+
+2004    “The Sheltowee Trace,” Kentucky GIS Annual Conference,
+        September  24-28.
+
+2002     “Animated Maps,” GIS Day University of Kentucky, November 14.
+
+2001     “outrageGIS mapping” booth display, Southeastern Division of the Association of 
+        American Geographers annual conference, November 17-20.
+
+1996     “The Daily Aesthetic,” Southeastern Division of the Association of American 
+        Geographers annual conference.
 
 <hr>
 
+## Professional Experience
+
+### Cartographer and GIS Consultant
+#### 1998–present | outrageGIS mapping
+
+Creating navigation aids that help hikers, mountain bikers, and equestrians better use public trails and wilderness areas with accurate map information for efficient travel. [outrageGIS mapping](https://outrageGIS.com)
+
+### Cartographer
+#### 1995-1999 | Appalachian Center at the University of Kentucky
+
+Created thematic maps analyzing demographic trends in the Appalachian region. Focused on patterns of social and infrastructural distress at the census tract level of geography. Example publication from 1997, [Appalachian Region Poverty Rate by Census Tract](../appalachian-center/graphics/arc-1990-us-census-poverty.jpg).
+
 ## Map production
 
-Create GPS-mapped printed trail maps of my favorite hiking areas as an entrepreneurial and creative challenge. Maps are sold online and at local mom-and-pop stores. The following trail maps can be found at [outrageGIS mapping](https://outrageGIS.com) and are self-published unless noted otherwise.
+Selected list of published maps. 
 
-* 2017	Cumberland Gap Trail Hiking Map, 2nd Edition<br>(Won 1st Place at Kentucky GIS Conference, September 5-7, 2017)
-* 2015	Sheltowee Trace South Trail Hiking Map, 2nd Edition
-* 2014	Sheltowee Trace North Trail Hiking Map
-* 2014	Cumberland Falls State Resort Park Trail Map
+* 2017    *Cumberland Gap Trail Hiking Map*, 2nd Edition<br>(Won 1st Place at Kentucky GIS Conference, September 5-7, 2017)
+* 2015    *Sheltowee Trace South Trail Hiking Map*, 2nd Edition
+* 2014    *Sheltowee Trace North Trail Hiking Map*
+* 2014    *Cumberland Falls State Resort Park Trail Map*
 <br>Published by the Kentucky Division of Parks, Frankfort, KY
-* 2013	Red River Gorge Trail Map, 5th Edition
-* 2012	Carter Caves State Resort Park Trail Map
+* 2013    *Red River Gorge Trail Map*, 5th Edition
+* 2012    *Carter Caves State Resort Park Trail Map*
 <br> Published by the Kentucky Division of Parks, Frankfort, KY
-* 2012	Bike Lexington Map <br>
+* 2012    *Bike Lexington Map* <br>
 Published by Lexington Division of Planning., Lexington, KY, <br>(Won 2nd Place at Kentucky GIS Conference, September 27-28, 2012)
-* 2009	Sheltowee Trace South Trail Hiking Map
-* 2008	Great Smoky Mountains Trail Atlas
-* 2007	The Big South Fork Trail Guide
-* 2005 	“Channel Islands National Park,”
-<br>Published in National Parks, Vol. 79, No. 2, pg. 51
-* 2005	Jefferson Memorial Forest Trail Guide
-* 2005	Cumberland Gap National Historical Park Trail Guide
-* 2004	Red River Gorge Sports Map
-* 2002	Cave Run Lake Trail Guide
-* 2001	Red River Gorge Backpacking Guide
-<!-- * 2000 	Western Korean Front: 1952-1953.
+* 2008    *Great Smoky Mountains Trail Atlas*
+* 2007    *The Big South Fork Trail Guide*
+* 2005     “Channel Islands National Park,”
+<br>Published in <i>National Parks Magazine</i>, Vol. 79, No. 2, pg. 51
+* 2005    *Jefferson Memorial Forest Trail Guide*
+* 2004    *Red River Gorge Sports Map*
+* 2002    *Cave Run Lake Trail Guide*
+* 2001    *Red River Gorge Backpacking Guide*
+<!-- * 2000     Western Korean Front: 1952-1953.
 1999  Creating a Community Shared Appalachian Atlas. U.K. Appalachian Center.  -->
-<!-- * 1997	Distressed Appalachian Census Tracts: a Comparison to the Appalachian Regional Commission's 1997 Distressed Area Designation. U.K. Appalachian Center -->
+<!-- * 1997    Distressed Appalachian Census Tracts: a Comparison to the Appalachian Regional Commission's 1997 Distressed Area Designation. U.K. Appalachian Center -->
 
 ## Media production
 
-* 2007	At Leisure's Edge audio documentary and driving tour
+* 2007    "At Leisure's Edge" audio documentary and driving tour
 <br>Self-produced audio driving tour exploring once-segregated parks, 72 minutes. Writer, producer, and editor.<br>
 [Audio and maps](https://soundcloud.com/boydx/sets/at-leisures-edge-audio-documentary)
-* 2006	First Frontier Audio Driving Tour
-<br>Commissioned by the Southern and Eastern Kentucky Tourism Development Association, 144 minutes. Writer, producer, and editor. <br>
+* 2006    "First Frontier Audio Driving Tour"
+<br>Commissioned by the *Southern and Eastern Kentucky Tourism Development Association*, 144 minutes. Writer, producer, and editor. <br>
 [Audio Disk 1](https://soundcloud.com/boydx/sets/first-frontier-audio-tour-1) | [Audio Disk 2](https://soundcloud.com/boydx/sets/first-frontier-audio-tour-2-waters-of-the-cumberland-river) | [Example map](https://www.firstfrontier.org/guidebook-timeline.html)
 
-* 2001 At Leisure's Edge: A Journey through Kentucky's Historic Black Parks
-<br>Kentucky Educational Television, 57 minutes. Writer, producer, and editor.<br>
+* 2001 "At Leisure's Edge: A Journey through Kentucky's Historic Black Parks"
+<br>*Kentucky Educational Television*, 57 minutes. Writer, producer, and editor.<br>
 [Video](https://www.boydshearer.com/media/AtLeisuresEdge)
-* 1997	”Mother's Day in Gratz Park,” WRFL, 8 minutes. [audio](https://www.uky.edu/Projects/TDA/audio/mayfest.mp3)
-* 1997	“The Red at Red River Gorge,” WRFL 17 minutes. [audio](https://www.uky.edu/Projects/TDA/audio/climbing.mp3)
-* 1997	“Defeat in the Streets: UK's 1997 NCAA Loss,” WRFL, 3 minutes. [audio](https://www.uky.edu/Projects/TDA/audio/weep-no-more.mp3)
-* 1997	“The Children of Constitution Square,” WRFL, 6 minutes. [audio](https://www.uky.edu/Projects/TDA/audio/constitution.mp3)
+* 1997    ”Mother's Day in Gratz Park,” WRFL, 8 minutes. <br>[audio](https://www.uky.edu/Projects/TDA/audio/mayfest.mp3)
+* 1997    “The Red at Red River Gorge,” WRFL 17 minutes. <br>[audio](https://www.uky.edu/Projects/TDA/audio/climbing.mp3)
+* 1997    “Defeat in the Streets: UK's 1997 NCAA Loss,” WRFL, 3 minutes. <br>[audio](https://www.uky.edu/Projects/TDA/audio/weep-no-more.mp3)
+* 1997    “The Children of Constitution Square,” WRFL, 6 minutes. <br>[audio](https://www.uky.edu/Projects/TDA/audio/constitution.mp3)
 
 ## Grants Received
 
@@ -156,4 +197,3 @@ Published by Lexington Division of Planning., Lexington, KY, <br>(Won 2nd Place 
 * 1997 The Lexington Arts and Cultural Council, $2,000.     
 * 1996 The Kentucky Humanities Council, $1,000.     
 * 1996 The Kentucky Oral History Commission, $1,000.
-

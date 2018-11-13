@@ -23,14 +23,6 @@ B.A., Major in Geography, Minor in Studio Fine Arts and Mathematics. 1994
 </div>
 
 
-## Technology
-
-| Spatial apps | Programming | Design |
-| :------: | :------: | :------: |
-| QGIS, ArcGIS, PostGIS | JavaScript, Python, Bash | HTML/CSS, Adobe Creative Cloud |
-
-
-
 ## Teaching Experience
 
 ### New Maps Plus
@@ -104,34 +96,35 @@ Recent student project
 
 ## Presentations
 
-2010    “Great Smoky Mountains: A 2nd Edition,” Kentucky Association of Mapping
+2017 “Teaching experiences at the University of Kentucky.” Department of Geography Colloquium Series, December 8.
+
+2010    “Great Smoky Mountains: A 2nd Edition.” Kentucky Association of Mapping
 Professionals Quarterly Meeting, August 5, 2010.
 
-2009    “The Sheltowee Trace Trail Map,” Appalachian Studies Association Annual
-        Conference, March 27-29.
+2009    “The Sheltowee Trace Trail Map.” Appalachian Studies Association Annual Conference, March 27-29.
 
-2008    “The Great Smoky Mountains Trail Atlas,” Appalachian Studies Association
-        annual conference, March 28-30.
+2008    “The Great Smoky Mountains Trail Atlas.” Appalachian Studies Association annual conference, March 28-30.
 
-2007    “The Great Smoky Mountains Trail Atlas,” map presentation, North American
-        Cartographic Information Society annual meeting, October 12-15.
+2007    “The Great Smoky Mountains Trail Atlas,” map presentation. North American Cartographic Information Society annual meeting, October 12-15.
 
-2006    “The Big South Fork Trail Guide,” map presentation, GIS Day University of
-        Kentucky, November 15.
+2006    “The Big South Fork Trail Guide.” map presentation, GIS Day University of Kentucky, November 15.
 
-2005    “Mapping Recreation with GPS, GIS, and Cartographic Art,” Department of
-        Geography Colloquium Series.
+2005    “Mapping Recreation with GPS, GIS, and Cartographic Art,” Department of Geography Colloquium Series.
 
-2004    “The Sheltowee Trace,” Kentucky GIS Annual Conference,
-        September  24-28.
+2004    “The Sheltowee Trace.” Kentucky GIS Annual Conference,September  24-28.
 
 2002     “Animated Maps,” GIS Day University of Kentucky, November 14.
 
-2001     “outrageGIS mapping” booth display, Southeastern Division of the Association of 
-        American Geographers annual conference, November 17-20.
+2001     “outrageGIS mapping” booth display, Southeastern Division of the Association of American Geographers annual conference, November 17-20.
 
-1996     “The Daily Aesthetic,” Southeastern Division of the Association of American 
-        Geographers annual conference.
+1996     “The Daily Aesthetic.” Southeastern Division of the Association of American Geographers annual conference.
+
+## Technology Experience
+
+| Spatial apps | Programming | Design |
+| :------: | :------: | :------: |
+| QGIS, ArcGIS, PostGIS | JavaScript, Python, Bash | HTML/CSS, Adobe Creative Cloud |
+
 
 <hr>
 
@@ -198,3 +191,10 @@ Published by Lexington Division of Planning., Lexington, KY, <br>(Won 2nd Place 
 * 1997 The Lexington Arts and Cultural Council, $2,000.     
 * 1996 The Kentucky Humanities Council, $1,000.     
 * 1996 The Kentucky Oral History Commission, $1,000.
+
+## Service and Affiliations
+
+Town Branch Trail, Inc; Board Member<br>
+Kentucky Association of Mapping Professionals<br>
+North American Cartographic Association Society
+

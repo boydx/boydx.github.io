@@ -47,6 +47,7 @@ Instructor for in-class undergraduate classes. Advanced courses have focused on 
 
 Courses taught
 * GEO 409 Advanced GIS
+* GEO 309 Internships in Geography
 * GEO 309 Introduction to GIS
 * GEO 160 Lands and Peoples of the Non-Western World
 * GEO 130 Introduction to Earth’s Physical Environment
@@ -65,6 +66,7 @@ Recent class project
 Instructor for field-based GIS applications. Course uses mobile GPS apps, ArcGIS, and Lidar and NAIP datasets to measure tree canopy and 3D attributes in our areas of interest. Created content for all courses.
 
 * NRES 355 Introductory Geospatial Applications For Land Analysis
+* FOR 330: GIS and Spatial Analysis
 
 Recent class project
 
@@ -93,9 +95,22 @@ Recent student project
 
 2016 “Map Making with QGIS” and “Learning the Basics of CARTO” <br>Kentucky Association of Mapping Professionals Annual meeting, October 18.
 
-2016, 2015    “UKy Summer Map Camp”<br>University of Kentucky Department of Geography, Summer. [Learn what middle school kids can map](https://plus.google.com/118185113381405635119).
+2016 and 2015    “UKy Summer Map Camp”<br>University of Kentucky Department of Geography, Summer. [Learn what middle school kids can map](https://plus.google.com/118185113381405635119).
+
+### Teaching Awards and Recognition
+
+2018 "NRE 355: A Thank you to Boyd Shearer." Natural Resources and Environmental Science Fall Newsletter.    
+2014 "Outstanding Geography Teacher Award." University of Kentucky Geographical Society.
+
 
 ## Presentations
+
+2019 “Open source command line GIS.” North American Cartographic Information Society annual meeting, October 18.
+
+2019 “Lidar: Processing & visualization with Python and
+ArcGIS Pro.” Kentucky Association of Mapping Professionals annual meeting, October 11.
+
+2019 "Weather mapping in HD: a season of Kentucky sunsets." University of Kentucky Department of Geography Colloquium Series, February 15.
 
 2017 “Teaching experiences at the University of Kentucky.” Department of Geography Colloquium Series, December 8.
 
@@ -112,11 +127,11 @@ Professionals Quarterly Meeting, August 5, 2010.
 
 2005    “Mapping Recreation with GPS, GIS, and Cartographic Art,” Department of Geography Colloquium Series.
 
-2004    “The Sheltowee Trace.” Kentucky GIS Annual Conference,September  24-28.
+2004    “The Sheltowee Trace.” Kentucky GIS Annual Conference,   September  24-28.
 
 2002     “Animated Maps,” GIS Day University of Kentucky, November 14.
 
-2001     “outrageGIS mapping” booth display, Southeastern Division of the Association of American Geographers annual conference, November 17-20.
+2001     “outrageGIS mapping.” Southeastern Division of the Association of American Geographers annual conference, November 17-20.
 
 1996     “The Daily Aesthetic.” Southeastern Division of the Association of American Geographers annual conference.
 
@@ -182,10 +197,12 @@ Published by Lexington Division of Planning., Lexington, KY, <br>(Won 2nd Place 
 * 2001 "At Leisure's Edge: A Journey through Kentucky's Historic Black Parks"
 <br>*Kentucky Educational Television*, 57 minutes. Writer, producer, and editor.<br>
 [Video](https://www.boydshearer.com/media/AtLeisuresEdge)
-* 1997    ”Mother's Day in Gratz Park,” WRFL, 8 minutes. <br>[audio](https://www.uky.edu/Projects/TDA/audio/mayfest.mp3)
-* 1997    “The Red at Red River Gorge,” WRFL 17 minutes. <br>[audio](https://www.uky.edu/Projects/TDA/audio/climbing.mp3)
-* 1997    “Defeat in the Streets: UK's 1997 NCAA Loss,” WRFL, 3 minutes. <br>[audio](https://www.uky.edu/Projects/TDA/audio/weep-no-more.mp3)
-* 1997    “The Children of Constitution Square,” WRFL, 6 minutes. <br>[audio](https://www.uky.edu/Projects/TDA/audio/constitution.mp3)
+* 1998 "The Beauty Salon," short film by Erin McGinnis and Ari Palos, 5:30 minutes. Sound design and editor.<br>
+[Video](http://www.dosvatos.com/films/watch/extras/)
+* 1997    ”Mother's Day in Gratz Park,” WRFL, 8 minutes. <br>[Audio](https://www.uky.edu/Projects/TDA/audio/mayfest.mp3)
+* 1997    “The Red at Red River Gorge,” WRFL 17 minutes. <br>[Audio](https://www.uky.edu/Projects/TDA/audio/climbing.mp3)
+* 1997    “Defeat in the Streets: UK's 1997 NCAA Loss,” WRFL, 3 minutes. <br>[Audio](https://www.uky.edu/Projects/TDA/audio/weep-no-more.mp3)
+* 1997    “The Children of Constitution Square,” WRFL, 6 minutes. <br>[Audio](https://www.uky.edu/Projects/TDA/audio/constitution.mp3)
 
 ## Grants Received
 
@@ -196,9 +213,10 @@ Published by Lexington Division of Planning., Lexington, KY, <br>(Won 2nd Place 
 * 1996 The Kentucky Humanities Council, $1,000.     
 * 1996 The Kentucky Oral History Commission, $1,000.
 
+
 ## Service and Affiliations
 
-Town Branch Trail, Inc; Board Member<br>
+[Town Branch Trail, Inc](https://townbranchtrail.org); Board Member<br>
 Kentucky Association of Mapping Professionals<br>
 North American Cartographic Association Society
 

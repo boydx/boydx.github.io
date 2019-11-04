@@ -125,13 +125,15 @@ Professionals Quarterly Meeting, August 5, 2010.
 
 2006    “The Big South Fork Trail Guide.” map presentation, GIS Day University of Kentucky, November 15.
 
-2005    “Mapping Recreation with GPS, GIS, and Cartographic Art,” Department of Geography Colloquium Series.
+2005    “Mapping Recreation with GPS, GIS, and Cartographic Art,” University of Kentucky Department of Geography Colloquium Series.
 
 2004    “The Sheltowee Trace.” Kentucky GIS Annual Conference,   September  24-28.
 
 2002     “Animated Maps,” GIS Day University of Kentucky, November 14.
 
 2001     “outrageGIS mapping.” Southeastern Division of the Association of American Geographers annual conference, November 17-20.
+
+1998     “A Douglass Park Documentary Project.” University of Kentucky Department of Geography Colloquium Series.
 
 1996     “The Daily Aesthetic.” Southeastern Division of the Association of American Geographers annual conference.
 

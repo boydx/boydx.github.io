@@ -56,12 +56,11 @@ Recent class project
 
 * Spring 2017 GEO 409: [Town Branch Trail](https://reece2ke.github.io/geo409_site/)
 
-<hr>
 
-## Past Instructor Positions
+### Past Instructor Positions
 
-### Adjunct Instructor, Natural Resources and Environmental Science
-#### 2013–2017 | College of Agriculture, University of Kentucky
+#### Adjunct Instructor, Natural Resources and Environmental Science
+##### 2013–2017 | College of Agriculture, University of Kentucky
 
 Instructor for field-based GIS applications. Course uses mobile GPS apps, ArcGIS, and Lidar and NAIP datasets to measure tree canopy and 3D attributes in our areas of interest. Created content for all courses.
 
@@ -72,8 +71,8 @@ Recent class project
 
 * Fall 2017: [Lexington Neighborhoods Tree Canopy Height Study](https://rvirto01.github.io/NRE355_Tree_canopy_study/)
 
-### Adjunct Instructor, Department of History, Languages, and Social Sciences
-#### 2006–2013 | Bluegrass Community and Technical College
+#### Adjunct Instructor, Department of History, Languages, and Social Sciences
+##### 2006–2013 | Bluegrass Community and Technical College
 
 In-class and online instructor for introductory geography classes.
 
@@ -102,6 +101,7 @@ Recent student project
 2018 "NRE 355: A Thank you to Boyd Shearer." Natural Resources and Environmental Science Fall Newsletter.    
 2014 "Outstanding Geography Teacher Award." University of Kentucky Geographical Society.
 
+<hr>
 
 ## Presentations
 

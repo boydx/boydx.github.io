@@ -163,20 +163,27 @@ Created thematic maps analyzing demographic trends in the Appalachian region. Fo
 
 Selected list of published maps. 
 
+* 2019 *West Sixth Farm Trail Map*
+<br>Commissioned by West Sixth Brewing, Lexington, KY
 * 2017    *Cumberland Gap Trail Hiking Map*, 2nd Edition<br>(Won 1st Place at Kentucky GIS Conference, September 5-7, 2017)
+* 2017 *Boulder Canyon Rock Climbs* (3D inset maps)
+<br>Commissioned by Wolverine Publishing, New Castle, CO
+* 2016    *Norris Watershed Trail Map* <br>Commissioned by the City of Norris, Norris, TN
 * 2015    *Sheltowee Trace South Trail Hiking Map*, 2nd Edition
+* 2015 *Western Colorado Physiographic Base Map*
+<br>Commissioned by Wolverine Publishing, New Castle, CO
 * 2014    *Sheltowee Trace North Trail Hiking Map*
 * 2014    *Cumberland Falls State Resort Park Trail Map*
-<br>Published by the Kentucky Division of Parks, Frankfort, KY
+<br>Commissioned by the Kentucky Division of Parks, Frankfort, KY
 * 2013    *Red River Gorge Trail Map*, 5th Edition
 * 2012    *Carter Caves State Resort Park Trail Map*
-<br> Published by the Kentucky Division of Parks, Frankfort, KY
+<br> Commissioned by the Kentucky Division of Parks, Frankfort, KY
 * 2012    *Bike Lexington Map* <br>
-Published by Lexington Division of Planning., Lexington, KY, <br>(Won 2nd Place at Kentucky GIS Conference, September 27-28, 2012)
+Commissioned by Lexington Division of Planning., Lexington, KY, <br>(Won 2nd Place at Kentucky GIS Conference, September 27-28, 2012)
 * 2008    *Great Smoky Mountains Trail Atlas*
 * 2007    *The Big South Fork Trail Guide*
 * 2005     “Channel Islands National Park,”
-<br>Published in <i>National Parks Magazine</i>, Vol. 79, No. 2, pg. 51
+<br>Commissioned by the <i>National Parks Magazine</i>, Vol. 79, No. 2, pg. 51
 * 2005    *Jefferson Memorial Forest Trail Guide*
 * 2004    *Red River Gorge Sports Map*
 * 2002    *Cave Run Lake Trail Guide*

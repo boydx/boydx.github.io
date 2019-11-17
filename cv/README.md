@@ -88,54 +88,54 @@ Recent student project
 
 ### Recent teaching workshops
 
-2017 “Fundamentals of QGIS” and “Raster processing and tile set creation with QGIS”<br>Kentucky Association of Mapping Professionals Annual meeting, September 5.
+* 2017 “Fundamentals of QGIS” and “Raster processing and tile set creation with QGIS”<br>Kentucky Association of Mapping Professionals Annual meeting, September 5.
 
-2017 “Introduction to QGIS Short Course”<br>University of Kentucky Department of Geography    and Kentucky Association of Mapping Professionals, June 27.
+* 2017 “Introduction to QGIS Short Course”<br>University of Kentucky Department of Geography    and Kentucky Association of Mapping Professionals, June 27.
 
-2016 “Map Making with QGIS” and “Learning the Basics of CARTO” <br>Kentucky Association of Mapping Professionals Annual meeting, October 18.
+* 2016 “Map Making with QGIS” and “Learning the Basics of CARTO” <br>Kentucky Association of Mapping Professionals Annual meeting, October 18.
 
-2016 and 2015    “UKy Summer Map Camp”<br>University of Kentucky Department of Geography, Summer. [Learn what middle school kids can map](https://plus.google.com/118185113381405635119).
+* 2016 and 2015    “UKy Summer Map Camp”<br>University of Kentucky Department of Geography, Summer. [Learn what middle school kids can map](https://plus.google.com/118185113381405635119).
 
 ### Teaching Awards and Recognition
 
-2018 "NRE 355: A Thank you to Boyd Shearer." Natural Resources and Environmental Science Fall Newsletter.    
-2014 "Outstanding Geography Teacher Award." University of Kentucky Geographical Society.
+* 2018 "NRE 355: A Thank you to Boyd Shearer." Natural Resources and Environmental Science Fall Newsletter.    
+* 2014 "Outstanding Geography Teacher Award." University of Kentucky Geographical Society.
 
 <hr>
 
 ## Presentations
 
-2019 “Open source command line GIS.” North American Cartographic Information Society annual meeting, October 18.
+* 2019 “Open source command line GIS.” North American Cartographic Information Society annual meeting, October 18.
 
-2019 “Lidar: Processing & visualization with Python and
+* 2019 “Lidar: Processing & visualization with Python and
 ArcGIS Pro.” Kentucky Association of Mapping Professionals annual meeting, October 11.
 
-2019 "Weather mapping in HD: a season of Kentucky sunsets." University of Kentucky Department of Geography Colloquium Series, February 15.
+* 2019 "Weather mapping in HD: a season of Kentucky sunsets." University of Kentucky Department of Geography Colloquium Series, February 15.
 
-2017 “Teaching experiences at the University of Kentucky.” Department of Geography Colloquium Series, December 8.
+* 2017 “Teaching experiences at the University of Kentucky.” Department of Geography Colloquium Series, December 8.
 
-2010    “Great Smoky Mountains: A 2nd Edition.” Kentucky Association of Mapping
+* 2010    “Great Smoky Mountains: A 2nd Edition.” Kentucky Association of Mapping
 Professionals Quarterly Meeting, August 5, 2010.
 
-2009    “The Sheltowee Trace Trail Map.” Appalachian Studies Association Annual Conference, March 27-29.
+* 2009    “The Sheltowee Trace Trail Map.” Appalachian Studies Association Annual Conference, March 27-29.
 
-2008    “The Great Smoky Mountains Trail Atlas.” Appalachian Studies Association annual conference, March 28-30.
+* 2008    “The Great Smoky Mountains Trail Atlas.” Appalachian Studies Association annual conference, March 28-30.
 
-2007    “The Great Smoky Mountains Trail Atlas,” map presentation. North American Cartographic Information Society annual meeting, October 12-15.
+* 2007    “The Great Smoky Mountains Trail Atlas,” map presentation. North American Cartographic Information Society annual meeting, October 12-15.
 
-2006    “The Big South Fork Trail Guide.” map presentation, GIS Day University of Kentucky, November 15.
+* 2006    “The Big South Fork Trail Guide.” map presentation, GIS Day University of Kentucky, November 15.
 
-2005    “Mapping Recreation with GPS, GIS, and Cartographic Art,” University of Kentucky Department of Geography Colloquium Series.
+* 2005    “Mapping Recreation with GPS, GIS, and Cartographic Art,” University of Kentucky Department of Geography Colloquium Series.
 
-2004    “The Sheltowee Trace.” Kentucky GIS Annual Conference,   September  24-28.
+* 2004    “The Sheltowee Trace.” Kentucky GIS Annual Conference,   September  24-28.
 
-2002     “Animated Maps,” GIS Day University of Kentucky, November 14.
+* 2002     “Animated Maps,” GIS Day University of Kentucky, November 14.
 
-2001     “outrageGIS mapping.” Southeastern Division of the Association of American Geographers annual conference, November 17-20.
+* 2001     “outrageGIS mapping.” Southeastern Division of the Association of American Geographers annual conference, November 17-20.
 
-1998     “A Douglass Park Documentary Project.” University of Kentucky Department of Geography Colloquium Series.
+* 1998     “A Douglass Park Documentary Project.” University of Kentucky Department of Geography Colloquium Series.
 
-1996     “The Daily Aesthetic.” Southeastern Division of the Association of American Geographers annual conference.
+* 1996     “The Daily Aesthetic.” Southeastern Division of the Association of American Geographers annual conference.
 
 <hr>
 
@@ -167,7 +167,7 @@ Selected list of published maps.
 
 * 2019 *West Sixth Farm Trail Map*
 <br>Commissioned by West Sixth Brewing, Lexington, KY
-* 2017    *Cumberland Gap Trail Hiking Map*, 2nd Edition<br>(Won 1st Place at Kentucky GIS Conference, September 5-7, 2017)
+* 2017    *Cumberland Gap Trail Hiking Map*, 2nd Edition<br>(**Won 1st Place at Kentucky GIS Conference, September 5-7, 2017**)
 * 2017 *Boulder Canyon Rock Climbs* (3D inset maps)
 <br>Commissioned by Wolverine Publishing, New Castle, CO
 * 2016    *Norris Watershed Trail Map* <br>Commissioned by the City of Norris, Norris, TN
@@ -181,7 +181,7 @@ Selected list of published maps.
 * 2012    *Carter Caves State Resort Park Trail Map*
 <br> Commissioned by the Kentucky Division of Parks, Frankfort, KY
 * 2012    *Bike Lexington Map* <br>
-Commissioned by Lexington Division of Planning., Lexington, KY, <br>(Won 2nd Place at Kentucky GIS Conference, September 27-28, 2012)
+Commissioned by Lexington Division of Planning., Lexington, KY, <br>(**Won 2nd Place at Kentucky GIS Conference, September 27-28, 2012**)
 * 2008    *Great Smoky Mountains Trail Atlas*
 * 2007    *The Big South Fork Trail Guide*
 * 2005     “Channel Islands National Park,”

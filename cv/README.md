@@ -8,7 +8,7 @@ Lexington, Kentucky 40506<br>
 
 Cartographer and mapping technology instructor. 10+ years of creative teaching and course development and 20+ years of map publishing, web design, and GIS consulting. Creates challenging and rewarding experiences learning open-source mapping, production cartography, and field mapping techniques. Current research uses lidar, digital elevation models, and terrain analysis. 
 
-<hr>
+<hr class="full">
 
 ## Education
 <!-- <div id="education"> -->
@@ -22,7 +22,7 @@ B.A., Major in Geography, Minor in Studio Fine Arts and Mathematics. 1994
 <br>Thesis: *Abandonment and Generation: Technology & Culture in Indiana Public Parks*
 <!-- </div> -->
 
-<hr> 
+<hr class="full">
 
 ## Teaching Experience
 
@@ -57,10 +57,8 @@ Recent class project
 * Spring 2017 GEO 409: [Town Branch Trail](https://reece2ke.github.io/geo409_site/)
 
 
-### Past Instructor Positions
-
-#### Adjunct Instructor, Natural Resources and Environmental Science
-##### 2013–2017 | College of Agriculture, University of Kentucky
+### Adjunct Instructor, Natural Resources and Environmental Science
+#### 2013–2017 | College of Agriculture, University of Kentucky
 
 Instructor for field-based GIS applications. Course uses mobile GPS apps, ArcGIS, and Lidar and NAIP datasets to measure tree canopy and 3D attributes in our areas of interest. Created content for all courses.
 
@@ -71,8 +69,8 @@ Recent class project
 
 * Fall 2017: [Lexington Neighborhoods Tree Canopy Height Study](https://rvirto01.github.io/NRE355_Tree_canopy_study/)
 
-#### Adjunct Instructor, Department of History, Languages, and Social Sciences
-##### 2006–2013 | Bluegrass Community and Technical College
+### Adjunct Instructor, Department of History, Languages, and Social Sciences
+#### 2006–2013 | Bluegrass Community and Technical College
 
 In-class and online instructor for introductory geography classes.
 
@@ -96,12 +94,13 @@ Recent student project
 
 * 2016 and 2015    “UKy Summer Map Camp”<br>University of Kentucky Department of Geography, Summer. [Learn what middle school kids can map](https://plus.google.com/118185113381405635119).
 
+
 ### Teaching Awards and Recognition
 
 * 2018 "NRE 355: A Thank you to Boyd Shearer." Natural Resources and Environmental Science Fall Newsletter.    
 * 2014 "Outstanding Geography Teacher Award." University of Kentucky Geographical Society.
 
-<hr>
+<hr class="full">
 
 ## Presentations
 
@@ -137,7 +136,7 @@ Professionals Quarterly Meeting, August 5, 2010.
 
 * 1996     “The Daily Aesthetic.” Southeastern Division of the Association of American Geographers annual conference.
 
-<hr>
+<hr class="full">
 
 
 ## Technology Experience
@@ -147,7 +146,7 @@ Professionals Quarterly Meeting, August 5, 2010.
 | QGIS, ArcGIS, PostGIS | JavaScript, Python, Bash | HTML/CSS, Adobe Creative Cloud |
 
 
-<hr>
+<hr class="full">
 
 ## Professional Experience
 
@@ -160,6 +159,7 @@ Creating navigation aids that help hikers, mountain bikers, and equestrians bett
 #### 1995-1999 | Appalachian Center at the University of Kentucky
 
 Created thematic maps analyzing demographic trends in the Appalachian region. Focused on patterns of social and infrastructural distress at the census tract level of geography. Example publication from 1997, [Appalachian Region Poverty Rate by Census Tract](../appalachian-center/graphics/arc-1990-us-census-poverty.jpg).
+
 
 ## Map production
 

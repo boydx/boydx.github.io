@@ -1,15 +1,15 @@
 # Teaching Portfolio
 
 
-## Courses taughtc (July 2018 - June 2019)
+## Courses taught 
 
-The courses taught during this period include MAP 671, MAP 672, and GEO 409. Each course was taught twice.
+The courses taught between July 2018 and June 2019 include MAP 671, MAP 672, and GEO 409. Each course was taught twice.
 
-The entirely online MAP courses require good lesson documentation to successfully guide students to complete assignments outside of a traditional classroom environment. I continue writing new lessons and recording videos to keep documentation up-to-date in the fast pace of evolution in open source technology. Over the past year I have created 12 new videos for MAP 671 and 5 videos for MAP 672 (and 10 for GEO 409).  [EXHIBIT A - Examples of instructional videos created]. 
+The entirely online MAP courses require good lesson documentation to successfully guide students to complete assignments outside of a traditional classroom environment. I continue writing new lessons and recording videos to keep documentation up-to-date in the fast pace of evolution in open source technology. Over the past year I have created 12 new videos for MAP 671 and 5 videos for MAP 672.  [EXHIBIT A - Examples of instructional videos created]. 
 
-MAP 671 offered a unique and difficult challenge. This course is now mostly taught by adjunct instructors and I rewrote the lessons . An important change was making lessons more "elastic" for the variety of student skill levels. Most lessons now have optional advanced topics.
+MAP 671 offered a unique and difficult challenge. This course is now mostly taught by adjunct instructors and I rewrote the lessons to help the instructors manage the variety of student skill levels typically seen in this introductory course. An important change was making lessons more "elastic" to accommodate students with previous mapping backgrounds. Most lessons now have optional advanced topics for those students that desire them. While I wait for the instructor's comments on this change, the feedback from students has been positive. All 7 students from MAP 671 summer term moved on to MAP 672 fall term.
 
-My GEO 409 course is a traditional classroom course filled mostly with students who are close to graduating and thinking of employment using their new GIS and mapping skills. I have structured the course to help make these students competitive after graduation. We learn analysis skills on enterprise GIS software, work with the latest data, and make unique and exploratory visualizations. I try to inspire students to consider that they are creating genuinely new and consequential material; every map and small statistic are found gems. This semester I have written 7 new lessons. [EXHIBIT B - new course module]
+My GEO 409 course is a traditional classroom course filled mostly with students who are close to graduating and thinking of employment using their new GIS and mapping skills. I have structured the course to help make these students competitive after graduation. We learn analysis skills on enterprise GIS software, work with the latest data, use Python programming language extensively, and make unique and exploratory visualizations. I try to inspire students to consider that they are creating genuinely new and consequential material; every map and small statistic are found gems. During this period I have recorded 10 new instructional videos and students have published 21 individual final projects. [EXHIBIT C - GEO 409 final projects]
 
 ## Philosophy
 

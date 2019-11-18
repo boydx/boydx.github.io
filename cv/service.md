@@ -1,18 +1,31 @@
 # Service Portfolio
 
-## GIS and Mapping Minor web page
+For the period between July 2018 and June 2019, I participated in and completed many notable activities.
 
-In support of the Minor, I have created a repository that showcases the courses offered and a selected list of student achievements. This ongoing project will hopefully collect works from other courses and teachers for promotion. [EXHIBIT C - Web page PDF (https://uky-gis.github.io/)]
+## Promoting New Maps Plus with a map of maps
 
-## Contributing support to the External Relations Committee
+Over the years students have completed many incredible final projects in New Maps Plus that only they and their instructor see. To both promote the program and generate enthusiasm among students to publish, I created a mechanism by which students can publish their final projects to a collective map. This map can both inspire students as they complete their final projects and recruit new students. [EXHIBIT B - promoting New Maps Plus]
 
-The committee asked me to create materials to support the 75th Anniversary of the department, principally doing archival research for photographs, maps, and other materials to promote the event. Because Karl Raitz is the keynote speaker for the Simple Day event, I have prioritized locating historic aerial photographs of campus and Kentucky landscapes that compliment the photography he made for the 1998 Kentucky Atlas. [EXHIBIT D - page with links to Anniversary historic assets]
+## Digital Technologies Committee
+
+As a member of the ad-hoc Digital Technologies Committee I have worked on the following projects.
+
+* Updating the New Maps Plus website with Rich Donohue and Jeff Levy.
+* Created a New Maps Plus map of alums (Joined with EXHIBIT B).
+* Made four presentations that discuss my mapping interests and to promote the GIS and Mapping minor and specifically GEO 409. [EXHIBIT D - Presentations]
+* Maintaining a repository https://uky-gis.github.io that showcases the courses offered and a selected list of student achievements. This ongoing project will hopefully collect works from other courses and teachers for promotion.
 
 
-## Member of the ad hoc Digital Technologies Committee
 
-I have contributed to committee discussions about existing courses and brainstorming new courses. In a more focused capacity I am working with Nick Lally to help standardize the core proficiencies desired in GEO 309. 
+## Support for the Undergraduate Committee
 
-North American Cartographic Information Society annual conference
+In support of Geography Awareness Week, I created a Geocache for mobile devices using 1907 Sanborn maps for campus. Students had to walk across campus to feature and photograph it. Only students that completed the geocache know the solution, so we can use it for 2020. [EXHIBIT G - Geocache instructions]
 
-In October, I represented New Maps Plus by networking and handing out our new brochures announcing the Master’s degree program. I met with one graduate to the New Maps Program and advocated that the conference should be held Lexington, as it was in 1997, in discussions with the NACIS president. (Photos from conference)
+## Support for External Relations Committee
+
+While I am now on the External Relations Committee, I was not during this FMER period. However, I contributed the following support to the committee.
+
+* During the Summer 2018, the committee asked if I could support 75th Anniversary of the department, by principally doing archival research for photographs, maps, and other materials to promote the event. A slideshow was published for the 2019 Semple Day event. [EXHIBIT E - completed slideshow]
+* In anticipation of Fall 2019 events in Miller Hall, I designed new signs and branding for Miller Hall and the Cartography Lab. New vinyl signs were cut and applied to three doors in Miller Hall. [Exhibit G - New branding for cartography assets]
+* I've been trying to raise awareness of our mapping and GIS capabilities for grants and contract work. It is my understanding that any money raised from mapping projects would become the department's funds. [EXHIBIT F - Pauer Center contract work]
+* In October 2018, I represented New Maps Plus at North American Cartographic Information Society annual conference by networking and handing out our new brochures announcing the Master’s degree program. In October 2019, I attended North American Cartographic Information Society and the Kentucky Association of Mapping Professionals annual conferences, both promoting New Maps Plus and the Department of Geography. The activities and presentations will be available in the next FMER period.

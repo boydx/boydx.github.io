@@ -6,6 +6,6 @@ My personal history informs this statement. When I was younger, I was harassed b
 
 Sometimes circumstances outside of class make it difficult for students to attend class and succeed, but these circumstances would not meet the threshold for excusable absences. Leveraging my online teaching experience, I create online video lectures for all classes. If students have to miss a few consecutive classes, they can still complete coursework. To help with students' finances, my classes do not require any software or material purchases. 
 
-In each course syllabus, I try to provide information to help overcome the myriad of challenges that students face and help students understand that they are part of a larger community. In addition to the Policy on non-discrimination, I give a list of Campus resources that could support a student through a crisis.
+In each course syllabus, I try to provide information to help overcome the myriad of challenges that students face and help students understand that they are part of a broader community. In addition to the Policy on non-discrimination, I give a list of Campus resources that could support a student through a crisis.
 
 

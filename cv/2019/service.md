@@ -19,13 +19,13 @@ As a member of the ad-hoc Digital Technologies Committee, I have worked on the f
 
 ## Support for the Undergraduate Committee
 
-In support of Geography Awareness Week, I created a Geocache for mobile devices using 1907 Sanborn maps for UK’s campus. Students had to walk across campus to feature and photograph it. Only students that completed the geocache know the solution so that we can use it for 2020. [EXHIBIT E - Geocache instructions]
+In support of Geography Awareness Week, I created a Geocache for mobile devices using 1907 Sanborn maps for UK’s campus. Students had to walk across campus to feature and photograph it. Only students that completed the geocache know the solution so that we can use it for 2020. [EXHIBIT F - Geocache instructions]
 
 ## Support for External Relations Committee
 
 While I am now on the External Relations Committee, I was not during this FMER period. However, I contributed the following support to the committee.
 
-* During Summer 2018, the committee asked if I could support the 75th Anniversary of the department by principally doing archival research for photographs, maps, and other materials to promote the event. A slideshow was published for the 2019 Semple Day event. [EXHIBIT F - completed slideshow]
-* In anticipation of Fall 2019 events in Miller Hall, I designed new signs and branding for Miller Hall and the Cartography Lab. New vinyl signs were cut and applied to three doors in Miller Hall. [Exhibit G - New branding for cartography assets]
-* I’ve been trying to raise awareness of our mapping and GIS capabilities for grants and contract work. It is my understanding that any money raised from mapping projects would become the department’s funds. [EXHIBIT H - Pauer Center contract work]
+* During Summer 2018, the committee asked if I could support the 75th Anniversary of the department by principally doing archival research for photographs, maps, and other materials to promote the event. A slideshow was published for the 2019 Semple Day event. [EXHIBIT E - completed slideshow]
+* In anticipation of Fall 2019 events in Miller Hall, I designed new signs and branding for Miller Hall and the Cartography Lab. New vinyl signs were cut and applied to three doors in Miller Hall. [Exhibit F - New branding for cartography assets]
+* I’ve been trying to raise awareness of our mapping and GIS capabilities for grants and contract work. It is my understanding that any money raised from mapping projects would become the department’s funds. [EXHIBIT G - Pauer Center contract work]
 * In October 2018, I represented New Maps Plus at North American Cartographic Information Society annual conference by networking and handing out our new brochures announcing the Master’s degree program. In October 2019, I attended the North American Cartographic Information Society and the Kentucky Association of Mapping Professionals annual conferences, both promoting New Maps Plus and the Department of Geography. The activities and presentations will be available in the next FMER period.

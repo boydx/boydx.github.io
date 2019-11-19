@@ -1,3 +1,3 @@
 # Student examples
 
-Find student mapping examples online at [boydx.github.io](https://boydx.github.io).
+Find student mapping examples online at [uky-gis.github.io](https://uky-gis.github.io).

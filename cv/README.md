@@ -33,6 +33,7 @@ Instructor for online program awarding a Graduate Certificate and Master of Scie
 Courses taught
 * MAP 671 Intro to Open Source Mapping and Data Management
 * MAP 672 Programming for Web Mapping
+* MAP 673 Design for Interactive Web Mapping
 
 Example MAP 671 module from Spring 2018
 * Lesson: [Spatial Joins, Hexbins, and Heat Mapping](http://newmapsplus.github.io/map671/05_2018/)
@@ -47,7 +48,7 @@ Instructor for in-class undergraduate classes. Advanced courses have focused on 
 
 Courses taught
 * GEO 409 Advanced GIS
-* GEO 309 Internships in Geography
+* GEO 399 Internships in Geography
 * GEO 309 Introduction to GIS
 * GEO 160 Lands and Peoples of the Non-Western World
 * GEO 130 Introduction to Earth’s Physical Environment

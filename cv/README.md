@@ -226,7 +226,7 @@ Commissioned by Lexington Division of Planning., Lexington, KY, <br>(**Won 2nd P
 
 ## Service and Affiliations
 
-[Town Branch Trail, Inc](https://townbranchtrail.org); Board Member<br>
-Kentucky Association of Mapping Professionals<br>
+[Town Branch Trail, Inc](https://townbranchtrail.org); Board Member   
+Kentucky Association of Mapping Professionals    
 North American Cartographic Association Society
 

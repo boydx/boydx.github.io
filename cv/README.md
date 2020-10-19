@@ -166,13 +166,14 @@ Created thematic maps analyzing demographic trends in the Appalachian region. Fo
 
 A selected list of published maps. 
 
+* 2020 *Sheltowee Trace North & South Hiking Maps*, 2nd Edition
 * 2019 *West Sixth Farm Trail Map*
 <br>Commissioned by West Sixth Brewing, Lexington, KY
 * 2017 *Cumberland Gap Trail Hiking Map*, 2nd Edition<br>(**Won 1st Place at Kentucky GIS Conference, September 5-7, 2017**)
 * 2017 *Boulder Canyon Rock Climbs* (3D inset maps)
 <br>Commissioned by Wolverine Publishing, New Castle, CO
 * 2016 *Norris Watershed Trail Map* <br>Commissioned by the City of Norris, Norris, TN
-* 2015 *Sheltowee Trace South Trail Hiking Map*, 2nd Edition
+* 2015 *Sheltowee Trace South Trail Hiking Map*
 * 2015 *Western Colorado Physiographic Base Map*
 <br>Commissioned by Wolverine Publishing, New Castle, CO
 * 2014 *Sheltowee Trace North Trail Hiking Map*

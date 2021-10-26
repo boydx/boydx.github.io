@@ -50,8 +50,10 @@ Courses taught
 * GEO 409 Advanced GIS
 * GEO 399 Internships in Geography
 * GEO 309 Introduction to GIS
+* GEO 305 Elements of Cartography
 * GEO 160 Lands and Peoples of the Non-Western World
 * GEO 130 Introduction to Earth’s Physical Environment
+* GEO 109 Digital Mapping
 
 Recent class project
 
@@ -166,6 +168,7 @@ Created thematic maps analyzing demographic trends in the Appalachian region. Fo
 
 A selected list of published maps. 
 
+* 2021 *Red River Gorge Trail Map*, 6th Edition
 * 2020 *Sheltowee Trace North & South Hiking Maps*, 2nd Edition
 * 2019 *West Sixth Farm Trail Map*
 <br>Commissioned by West Sixth Brewing, Lexington, KY

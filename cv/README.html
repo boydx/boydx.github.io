@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>README.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+<link rel="stylesheet" href="file:///Volumes/B/_repos/boydx.github.io/cv/markdown-pdf.css" type="text/css">
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="boyd-shearer">Boyd Shearer</h1>
+<h2 id="lecturer">Lecturer</h2>
+<p>Department of Geography, University of Kentucky<br>
+817 Patterson Office Tower<br>
+Lexington, Kentucky 40506<br>
+(859) 806-3938 | <a href="https://outrageGIS.com/trails/contact">email</a> | <a href="http://boydx.github.io/">view online</a></p>
+<p>Cartographer and mapping technology instructor. 15+ years of creative teaching and course development and 25+ years of map publishing, web design, and GIS consulting. Creates challenging and rewarding experiences learning open-source mapping, production cartography, and field mapping techniques. Current research uses lidar, digital elevation models, and terrain analysis.</p>
+<hr class="full">
+<h2 id="education">Education</h2>
+<!-- <div id="education"> -->
+<h3 id="university-of-kentucky">University of Kentucky</h3>
+<p>M.A., Geography. 1999
+<br>Thesis: <em>The Daily Aesthetic [<a href="http://www.uky.edu/Projects/TDA">http://www.uky.edu/Projects/TDA</a>]: A Multimedia Exploration of Leisure and Recreation in Lexington’s Segregated Park System</em></p>
+<h3 id="indiana-university">Indiana University</h3>
+<p>B.A., Major in Geography, Minor in Studio Fine Arts and Mathematics. 1994
+<br>Thesis: <em>Abandonment and Generation: Technology &amp; Culture in Indiana Public Parks</em></p>
+<!-- </div> -->
+<hr class="full">
+<h2 id="teaching-experience">Teaching Experience</h2>
+<h3 id="new-maps-plus">New Maps Plus</h3>
+<h4 id="2015%E2%80%93present--department-of-geography-university-of-kentucky">2015–present | Department of Geography, University of Kentucky</h4>
+<p>Instructor for online program awarding a Graduate Certificate and Master of Science degree in open source mapping. Responsibilities include teaching and developing a curriculum that integrates QGIS, PostGIS, OpenStreetMap data, Leaflet.js, and other mapping libraries with the common web stack to perform and visualize spatial analysis.</p>
+<p>Courses taught</p>
+<ul>
+<li>MAP 671 Intro to Open Source Mapping and Data Management</li>
+<li>MAP 672 Programming for Web Mapping</li>
+<li>MAP 673 Design for Interactive Web Mapping</li>
+</ul>
+<p>Example MAP 671 module from Spring 2018</p>
+<ul>
+<li>Lesson: <a href="http://newmapsplus.github.io/map671/05_2018/">Spatial Joins, Hexbins, and Heat Mapping</a></li>
+<li>Instructional video from lesson: <a href="https://vimeo.com/255553431/c6e6cfd8c7">Instructional video</a></li>
+<li>Lab: <a href="http://newmapsplus.github.io/map671/05_2018/lab/">Hex binning North American breweries</a></li>
+</ul>
+<h3 id="geography">Geography</h3>
+<h4 id="2008%E2%80%93present--department-of-geography-university-of-kentucky">2008–present | Department of Geography, University of Kentucky</h4>
+<p>Instructor for in-class undergraduate classes. Advanced courses have focused on ArcGIS and Python and open-source GIS platforms. Created content for all courses.</p>
+<p>Courses taught</p>
+<ul>
+<li>GEO 409 Advanced GIS</li>
+<li>GEO 399 Internships in Geography</li>
+<li>GEO 309 Introduction to GIS</li>
+<li>GEO 305 Elements of Cartography</li>
+<li>GEO 160 Lands and Peoples of the Non-Western World</li>
+<li>GEO 130 Introduction to Earth’s Physical Environment</li>
+<li>GEO 109 Digital Mapping</li>
+</ul>
+<p>Recent class project</p>
+<ul>
+<li>Spring 2017 GEO 409: <a href="https://reece2ke.github.io/geo409_site/">Town Branch Trail</a></li>
+</ul>
+<h3 id="adjunct-instructor-natural-resources-and-environmental-science">Adjunct Instructor, Natural Resources and Environmental Science</h3>
+<h4 id="2013%E2%80%932017--college-of-agriculture-university-of-kentucky">2013–2017 | College of Agriculture, University of Kentucky</h4>
+<p>Instructor for field-based GIS applications. Course uses mobile GPS apps, ArcGIS, and Lidar and NAIP datasets to measure tree canopy and 3D attributes in our areas of interest. Created content for all courses.</p>
+<ul>
+<li>NRES 355 Introductory Geospatial Applications For Land Analysis</li>
+<li>FOR 330: GIS and Spatial Analysis</li>
+</ul>
+<p>Recent class project</p>
+<ul>
+<li>Fall 2017: <a href="https://rvirto01.github.io/NRE355_Tree_canopy_study/">Lexington Neighborhoods Tree Canopy Height Study</a></li>
+</ul>
+<h3 id="adjunct-instructor-department-of-history-languages-and-social-sciences">Adjunct Instructor, Department of History, Languages, and Social Sciences</h3>
+<h4 id="2006%E2%80%932013--bluegrass-community-and-technical-college">2006–2013 | Bluegrass Community and Technical College</h4>
+<p>In-class and online instructor for introductory geography classes.</p>
+<p>Courses taught</p>
+<ul>
+<li>GEO 130 Introduction to Earth’s Physical Environment</li>
+<li>GEO 160 Lands and Peoples of the Non-Western World</li>
+<li>GEO 172 Introduction to Human Geography</li>
+</ul>
+<p>Recent student project</p>
+<ul>
+<li>Fall 2012 GEO 172: <a href="http://district.bluegrass.kctcs.edu/bshearer0002/geo172/RephotoLex/">Rephotographing Lexington’s streetscapes</a></li>
+</ul>
+<h3 id="recent-teaching-workshops">Recent teaching workshops</h3>
+<ul>
+<li>
+<p>2017 “Fundamentals of QGIS” and “Raster processing and tileset creation with QGIS” <br>Kentucky Association of Mapping Professionals Annual meeting, September 5.</p>
+</li>
+<li>
+<p>2017 “Introduction to QGIS Short Course” <br>University of Kentucky Department of Geography and Kentucky Association of Mapping Professionals, June 27.</p>
+</li>
+<li>
+<p>2016 “Map Making with QGIS” and “Learning the Basics of CARTO” <br>Kentucky Association of Mapping Professionals Annual Meeting, October 18.</p>
+</li>
+<li>
+<p>2016 and 2015 “UKy Summer Map Camp” <br>University of Kentucky Department of Geography, Summer. <a href="https://plus.google.com/118185113381405635119">Learn what middle school kids can map</a>.</p>
+</li>
+</ul>
+<h3 id="teaching-awards-and-recognition">Teaching Awards and Recognition</h3>
+<ul>
+<li>2018 “NRE 355: A Thank you to Boyd Shearer.” Natural Resources and Environmental Science Fall Newsletter.</li>
+<li>2014 “Outstanding Geography Teacher Award.” University of Kentucky Geographical Society.</li>
+</ul>
+<hr class="full">
+<h2 id="presentations">Presentations</h2>
+<ul>
+<li>
+<p>2019 “Open source command line GIS.” North American Cartographic Information Society annual meeting, October 18.</p>
+</li>
+<li>
+<p>2019 “Lidar: Processing &amp; visualization with Python and
+ArcGIS Pro.” Kentucky Association of Mapping Professionals annual meeting, October 11.</p>
+</li>
+<li>
+<p>2019 “Weather mapping in HD: a season of Kentucky sunsets.” University of Kentucky Department of Geography Colloquium Series, February 15.</p>
+</li>
+<li>
+<p>2017 “Teaching experiences at the University of Kentucky.” Department of Geography Colloquium Series, December 8.</p>
+</li>
+<li>
+<p>2010 “Great Smoky Mountains: A 2nd Edition.” Kentucky Association of Mapping
+Professionals Quarterly Meeting, August 5, 2010.</p>
+</li>
+<li>
+<p>2009 “The Sheltowee Trace Trail Map.” Appalachian Studies Association Annual Conference, March 27-29.</p>
+</li>
+<li>
+<p>2008 “The Great Smoky Mountains Trail Atlas.” Appalachian Studies Association annual conference, March 28-30.</p>
+</li>
+<li>
+<p>2007 “The Great Smoky Mountains Trail Atlas,” map presentation. North American Cartographic Information Society annual meeting, October 12-15.</p>
+</li>
+<li>
+<p>2006 “The Big South Fork Trail Guide.” map presentation, GIS Day University of Kentucky, November 15.</p>
+</li>
+<li>
+<p>2005 “Mapping Recreation with GPS, GIS, and Cartographic Art,” University of Kentucky Department of Geography Colloquium Series.</p>
+</li>
+<li>
+<p>2004 “The Sheltowee Trace.” Kentucky GIS Annual Conference, September 24-28.</p>
+</li>
+<li>
+<p>2002 “Animated Maps,” GIS Day University of Kentucky, November 14.</p>
+</li>
+<li>
+<p>2001 “outrageGIS mapping.” Southeastern Division of the Association of American Geographers annual conference, November 17-20.</p>
+</li>
+<li>
+<p>1998 “A Douglass Park Documentary Project.” University of Kentucky Department of Geography Colloquium Series.</p>
+</li>
+<li>
+<p>1996 “The Daily Aesthetic.” Southeastern Division of the Association of American Geographers annual conference.</p>
+</li>
+</ul>
+<hr class="full">
+<h2 id="technology-experience">Technology Experience</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Spatial apps</th>
+<th style="text-align:center">Programming</th>
+<th style="text-align:center">Design</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">QGIS, ArcGIS, PostGIS</td>
+<td style="text-align:center">JavaScript, Python, Bash</td>
+<td style="text-align:center">HTML/CSS, Adobe Creative Cloud</td>
+</tr>
+</tbody>
+</table>
+<hr class="full">
+<h2 id="professional-experience">Professional Experience</h2>
+<h3 id="cartographer-and-gis-consultant">Cartographer and GIS Consultant</h3>
+<h4 id="1998%E2%80%93present--outragegis-mapping">1998–present | outrageGIS mapping</h4>
+<p>Creating navigation aids that help hikers, mountain bikers, and equestrians better use public trails and wilderness areas with accurate map information for efficient travel. <a href="https://outrageGIS.com">outrageGIS mapping</a></p>
+<h3 id="cartographer">Cartographer</h3>
+<h4 id="1995-1999--appalachian-center-at-the-university-of-kentucky">1995-1999 | Appalachian Center at the University of Kentucky</h4>
+<p>Created thematic maps analyzing demographic trends in the Appalachian region. Focused on patterns of social and infrastructural distress at the census tract level of geography. Example publication from 1997, <a href="../appalachian-center/graphics/arc-1990-us-census-poverty.jpg">Appalachian Region Poverty Rate by Census Tract</a>.</p>
+<h2 id="map-production">Map production</h2>
+<p>A selected list of published maps.</p>
+<ul>
+<li>2021 <em>Red River Gorge Trail Map</em>, 6th Edition</li>
+<li>2020 <em>Sheltowee Trace North &amp; South Hiking Maps</em>, 2nd Edition</li>
+<li>2019 <em>West Sixth Farm Trail Map</em>
+<br>Commissioned by West Sixth Brewing, Lexington, KY</li>
+<li>2017 <em>Cumberland Gap Trail Hiking Map</em>, 2nd Edition<br>(<strong>Won 1st Place at Kentucky GIS Conference, September 5-7, 2017</strong>)</li>
+<li>2017 <em>Boulder Canyon Rock Climbs</em> (3D inset maps)
+<br>Commissioned by Wolverine Publishing, New Castle, CO</li>
+<li>2016 <em>Norris Watershed Trail Map</em> <br>Commissioned by the City of Norris, Norris, TN</li>
+<li>2015 <em>Sheltowee Trace South Trail Hiking Map</em></li>
+<li>2015 <em>Western Colorado Physiographic Base Map</em>
+<br>Commissioned by Wolverine Publishing, New Castle, CO</li>
+<li>2014 <em>Sheltowee Trace North Trail Hiking Map</em></li>
+<li>2014 <em>Cumberland Falls State Resort Park Trail Map</em>
+<br>Commissioned by the Kentucky Division of Parks, Frankfort, KY</li>
+<li>2013 <em>Red River Gorge Trail Map</em>, 5th Edition</li>
+<li>2012 <em>Carter Caves State Resort Park Trail Map</em>
+<br> Commissioned by the Kentucky Division of Parks, Frankfort, KY</li>
+<li>2012 <em>Bike Lexington Map</em> <br>
+Commissioned by Lexington Division of Planning., Lexington, KY, <br>(<strong>Won 2nd Place at Kentucky GIS Conference, September 27-28, 2012</strong>)</li>
+<li>2008 <em>Great Smoky Mountains Trail Atlas</em></li>
+<li>2007 <em>The Big South Fork Trail Guide</em></li>
+<li>2005 “Channel Islands National Park,”
+<br>Commissioned by the <i>National Parks Magazine</i>, Vol. 79, No. 2, pg. 51</li>
+<li>2005 <em>Jefferson Memorial Forest Trail Guide</em></li>
+<li>2004 <em>Red River Gorge Sports Map</em></li>
+<li>2002 <em>Cave Run Lake Trail Guide</em></li>
+<li>2001 <em>Red River Gorge Backpacking Guide</em></li>
+<li>2000 <em>Western Korean Front: 1952-1953</em></li>
+<li>1999 <em>Creating a Community Shared Appalachian Atlas</em>, U.K. Appalachian Center.</li>
+<li>1997 <em>Distressed Appalachian Census Tracts: a Comparison to the Appalachian Regional Commission’s 1997 Distressed Area Designation</em>, U.K. Appalachian Center.</li>
+</ul>
+<h2 id="media-production">Media production</h2>
+<ul>
+<li>
+<p>2007 “At Leisure’s Edge” audio documentary and driving tour
+<br>Self-produced audio driving tour exploring once-segregated parks, 72 minutes. Writer, producer, and editor.<br>
+<a href="https://soundcloud.com/boydx/sets/at-leisures-edge-audio-documentary">Audio and maps</a></p>
+</li>
+<li>
+<p>2006 “First Frontier Audio Driving Tour”
+<br>Commissioned by the <em>Southern and Eastern Kentucky Tourism Development Association</em>, 144 minutes. Writer, producer, and editor. <br>
+<a href="https://soundcloud.com/boydx/sets/first-frontier-audio-tour-1">Audio Disk 1</a> | <a href="https://soundcloud.com/boydx/sets/first-frontier-audio-tour-2-waters-of-the-cumberland-river">Audio Disk 2</a> | <a href="https://www.firstfrontier.org/guidebook-timeline.html">Example map</a></p>
+</li>
+<li>
+<p>2001 &quot;At Leisure's Edge: A Journey through Kentucky's Historic Black Parks&quot;
+<br><em>Kentucky Educational Television</em>, 57 minutes. Writer, producer, and editor.<br>
+<a href="https://www.boydshearer.com/media/AtLeisuresEdge">Video</a></p>
+</li>
+<li>
+<p>1998 &quot;The Beauty Salon,&quot; short film by Erin McGinnis and Ari Palos, 5:30 minutes. Sound design and editor.<br>
+<a href="http://www.dosvatos.com/films/watch/extras/">Video</a></p>
+</li>
+<li>
+<p>1997 ”Mother's Day in Gratz Park,” WRFL, 8 minutes. <br><a href="https://www.uky.edu/Projects/TDA/audio/mayfest.mp3">Audio</a></p>
+</li>
+<li>
+<p>1997 “The Red at Red River Gorge,” WRFL 17 minutes. <br><a href="https://www.uky.edu/Projects/TDA/audio/climbing.mp3">Audio</a></p>
+</li>
+<li>
+<p>1997 “Defeat in the Streets: UK's 1997 NCAA Loss,” WRFL, 3 minutes. <br><a href="https://www.uky.edu/Projects/TDA/audio/weep-no-more.mp3">Audio</a></p>
+</li>
+<li>
+<p>1997 “The Children of Constitution Square,” WRFL, 6 minutes. <br><a href="https://www.uky.edu/Projects/TDA/audio/constitution.mp3">Audio</a></p>
+</li>
+</ul>
+<h2 id="grants-received">Grants Received</h2>
+<ul>
+<li>1999 Kentucky Educational Television, $19,000.</li>
+<li>1998 The Kentucky Humanities Council, $10,000.</li>
+<li>1997 The Kentucky Oral History Commission, $4,000.</li>
+<li>1997 The Lexington Arts and Cultural Council, $2,000.</li>
+<li>1996 The Kentucky Humanities Council, $1,000.</li>
+<li>1996 The Kentucky Oral History Commission, $1,000.</li>
+</ul>
+<h2 id="service-and-affiliations">Service and Affiliations</h2>
+<p><a href="https://townbranchtrail.org">Town Branch Trail, Inc</a>; Board Member<br>
+Kentucky Association of Mapping Professionals<br>
+North American Cartographic Association Society</p>
+<p>December, 2021</p>
+
+</body>
+</html>

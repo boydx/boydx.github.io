@@ -6,7 +6,7 @@ Department of Geography, University of Kentucky<br>
 Lexington, Kentucky 40506<br>
 (859) 806-3938 | [email](https://outrageGIS.com/trails/contact) | [view online](http://boydx.github.io/)
 
-Cartographer and mapping technology instructor. 10+ years of creative teaching and course development and 20+ years of map publishing, web design, and GIS consulting. Creates challenging and rewarding experiences learning open-source mapping, production cartography, and field mapping techniques. Current research uses lidar, digital elevation models, and terrain analysis. 
+Cartographer and mapping technology instructor. 15+ years of creative teaching and course development and 25+ years of map publishing, web design, and GIS consulting. Creates challenging and rewarding experiences learning open-source mapping, production cartography, and field mapping techniques. Current research uses lidar, digital elevation models, and terrain analysis. 
 
 <hr class="full">
 
@@ -195,9 +195,9 @@ Commissioned by Lexington Division of Planning., Lexington, KY, <br>(**Won 2nd P
 * 2004 *Red River Gorge Sports Map*
 * 2002 *Cave Run Lake Trail Guide*
 * 2001 *Red River Gorge Backpacking Guide*
-<!-- * 2000 Western Korean Front: 1952-1953.
-1999 Creating a Community Shared Appalachian Atlas. U.K. Appalachian Center. -->
-<!-- * 1997 Distressed Appalachian Census Tracts: a Comparison to the Appalachian Regional Commission’s 1997 Distressed Area Designation. U.K. Appalachian Center -->
+* 2000 *Western Korean Front: 1952-1953*
+* 1999 *Creating a Community Shared Appalachian Atlas*, U.K. Appalachian Center.
+* 1997 *Distressed Appalachian Census Tracts: a Comparison to the Appalachian Regional Commission’s 1997 Distressed Area Designation*, U.K. Appalachian Center.
 
 ## Media production
 
@@ -233,4 +233,8 @@ Commissioned by Lexington Division of Planning., Lexington, KY, <br>(**Won 2nd P
 [Town Branch Trail, Inc](https://townbranchtrail.org); Board Member   
 Kentucky Association of Mapping Professionals    
 North American Cartographic Association Society
+
+<hr class="full">
+
+December, 2021
 

@@ -47,6 +47,7 @@ Example MAP 671 module from Spring 2018
 Instructor for in-class undergraduate classes. Advanced courses have focused on ArcGIS and Python and open-source GIS platforms. Created content for all courses.
 
 Courses taught
+* GEO 509 Workshop in Geospatial Technologies
 * GEO 409 Advanced GIS
 * GEO 399 Internships in Geography
 * GEO 309 Introduction to GIS
@@ -106,6 +107,8 @@ Recent student project
 <hr class="full">
 
 ## Presentations
+
+* 2022 “Shaded reliefs from lidar derivatives.” Kentucky Association of Mapping Professionals annual meeting, September 28.
 
 * 2019 “Open source command line GIS.” North American Cartographic Information Society annual meeting, October 18.
 
@@ -236,5 +239,5 @@ North American Cartographic Association Society
 
 <hr class="full">
 
-December, 2021
+October, 2022
 

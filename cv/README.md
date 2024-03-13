@@ -119,11 +119,11 @@ Courses taught
 
 ## Presentations
 
-- 2023 “Open-source 3D maps in the browser” Kentucky Association of Mapping Professionals annual meeting, October 11.
+- 2023 [“Open-source 3D maps in the browser.”](https://github.com/newmapsplus/terrain-vector-tiles) Kentucky Association of Mapping Professionals annual meeting, October 11. 
 
 - 2022 “How we use QGIS at UKy Geography.” Kentucky Association of Mapping Professionals GIS Day event, November 16.
 
-- 2022 “Shaded reliefs from lidar derivatives.” Kentucky Association of Mapping Professionals annual meeting, September 28.
+- 2022 [“Shaded reliefs from lidar derivatives.”](https://github.com/uky-gis/pro-relief/) Kentucky Association of Mapping Professionals annual meeting, September 28.
 
 - 2019 “Open source command line GIS.” North American Cartographic Information Society annual meeting, October 18.
 

@@ -188,11 +188,12 @@ Created thematic maps analyzing demographic trends in the Appalachian region. Fo
 
 A selected list of published maps.
 
+- 2023 _Campus Change, 2010-2019_, <br>(**Won 1st Place for Spatial Analysis** at Kentucky Association of Mapping Professionals annual meeting, October 10-12, 2023)
 - 2021 _Red River Gorge Trail Map_, 6th Edition
 - 2020 _Sheltowee Trace North & South Hiking Maps_, 2nd Edition
 - 2019 _West Sixth Farm Trail Map_
   <br>Commissioned by West Sixth Brewing, Lexington, KY
-- 2017 _Cumberland Gap Trail Hiking Map_, 2nd Edition<br>(**Won 1st Place at Kentucky GIS Conference, September 5-7, 2017**)
+- 2017 _Cumberland Gap Trail Hiking Map_, 2nd Edition<br>(**Won 1st Place** at Kentucky GIS Conference, September 5-7, 2017)
 - 2017 _Boulder Canyon Rock Climbs_ (3D inset maps)
   <br>Commissioned by Wolverine Publishing, New Castle, CO
 - 2016 _Norris Watershed Trail Map_ <br>Commissioned by the City of Norris, Norris, TN
@@ -206,7 +207,7 @@ A selected list of published maps.
 - 2012 _Carter Caves State Resort Park Trail Map_
   <br> Commissioned by the Kentucky Division of Parks, Frankfort, KY
 - 2012 _Bike Lexington Map_ <br>
-  Commissioned by Lexington Division of Planning., Lexington, KY, <br>(**Won 2nd Place at Kentucky GIS Conference, September 27-28, 2012**)
+  Commissioned by Lexington Division of Planning., Lexington, KY, <br>(**Won 2nd Place** at Kentucky GIS Conference, September 27-28, 2012)
 - 2008 _Great Smoky Mountains Trail Atlas_
 - 2007 _The Big South Fork Trail Guide_
 - 2005 “Channel Islands National Park,”

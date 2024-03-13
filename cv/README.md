@@ -121,7 +121,11 @@ Courses taught
 
 - 2023 [“Open-source 3D maps in the browser.”](https://github.com/newmapsplus/terrain-vector-tiles) Kentucky Association of Mapping Professionals annual meeting, October 11. 
 
+- 2023 [“Showcasing a GEO509 student project.”](https://uky-gis.github.io/geo509/report-2022) Cartography in the Bluegrass, September 28. 
+
 - 2022 “How we use QGIS at UKy Geography.” Kentucky Association of Mapping Professionals GIS Day event, November 16.
+
+- 2022 [“The joy of mapping with Boyd.”](https://github.com/UKy-GIS/joy-of-mapping) University of Kentucky Department of Geography Colloquium Series, October 28.
 
 - 2022 [“Shaded reliefs from lidar derivatives.”](https://github.com/uky-gis/pro-relief/) Kentucky Association of Mapping Professionals annual meeting, September 28.
 

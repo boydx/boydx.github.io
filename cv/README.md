@@ -30,11 +30,21 @@ B.A., Major in Geography, Minor in Studio Fine Arts and Mathematics. 1994
 
 ## Teaching Experience
 
+### Senior Lecturer, Geography
+
+2024–present | Department of Geography, University of Kentucky
+
+Instructor for in-class undergraduate classes and online graduate Digital Mapping program. Responsibilities include teaching and developing a curriculum using open-source and ArcGIS mapping software and libraries. Focus on lidar and web mapping applications.
+
+Courses taught
+
+- MAP 673 Design for Interactive Web Mapping
+- MAP 672 Programming for Web Mapping
+- GEO 109 Digital Mapping
+
 ### Lecturer, Geography
 
-2018–present | Department of Geography, University of Kentucky
-
-Instructor for in-class undergraduate classes and online MS in Digital Mapping program. Responsibilities include teaching and developing a curriculum using open-source and ArcGIS mapping software and libraries. Focus on lidar and web mapping applications.
+2018–2024 | Department of Geography, University of Kentucky
 
 Courses taught
 
@@ -100,7 +110,17 @@ Courses taught
 
 - Fall 2012 GEO 172: [Rephotographing Lexington’s streetscapes](http://district.bluegrass.kctcs.edu/bshearer0002/geo172/RephotoLex/) -->
 
-### Teaching workshops
+### Workshops
+
+- 2019-2020 [maptimeLEX series](https://github.com/maptimelex/schedule)<br>Co-organizer (with Rich Donohue) of monthly workshops on open-source mapping tools and techniques.
+
+  - "Maximizing Spatial Oomph: unleashing the raw power of monochromatic maps" (September 12, 2019)
+  - "Regex to the rescue: repairing improperly encoded FIPS codes" (October 10, 2019)
+  - "Wildcat eyes: harnessing remote sensing data in Kentucky" (November 14, 2019)
+  - "Mapbox Studio does that? Yep!" (December 12, 2019)
+  - "Where is your nearest love?" (February 13, 2020)
+
+- 2017 “Fundamentals of QGIS” and “Raster processing and tileset creation with QGIS” <br>Kentucky Association of Mapping Professionals Annual meeting, September 5.
 
 - 2017 “Fundamentals of QGIS” and “Raster processing and tileset creation with QGIS” <br>Kentucky Association of Mapping Professionals Annual meeting, September 5.
 
@@ -112,6 +132,7 @@ Courses taught
 
 ### Teaching Awards and Recognition
 
+- 2024 Finalist, "Provost's Outstanding Teaching Award for the 2023-2024." University of Kentucky.
 - 2018 “NRE 355: A Thank you to Boyd Shearer.” Natural Resources and Environmental Science Fall Newsletter.
 - 2014 “Outstanding Geography Teacher Award.” University of Kentucky Geographical Society.
 
@@ -119,9 +140,13 @@ Courses taught
 
 ## Presentations
 
-- 2023 [“Open-source 3D maps in the browser.”](https://github.com/newmapsplus/terrain-vector-tiles) Kentucky Association of Mapping Professionals annual meeting, October 11. 
+- 2024 [“3D & vector tiles: Open-source and self-hosted web map solutions”](https://newmapsplus.github.io/terrain-vector-tiles/) Kentucky Association of Mapping Professionals annual meeting, October 9.
 
-- 2023 [“Showcasing a GEO509 student project.”](https://uky-gis.github.io/geo509/report-2022) Cartography in the Bluegrass, September 28. 
+- 2024 [“Open-source 3D maps in the browser.”](https://github.com/newmapsplus/terrain-vector-tiles) University of Kentucky Earth and Environmental Sciences Department Rast-Holbrook Seminar Series, September 19.
+
+- 2023 [“Open-source 3D maps in the browser.”](https://github.com/newmapsplus/terrain-vector-tiles) Kentucky Association of Mapping Professionals annual meeting, October 11.
+
+- 2023 [“Showcasing a GEO509 student project.”](https://uky-gis.github.io/geo509/report-2022) Cartography in the Bluegrass, September 28.
 
 - 2022 “How we use QGIS at UKy Geography.” Kentucky Association of Mapping Professionals GIS Day event, November 16.
 
@@ -256,4 +281,4 @@ North American Cartographic Association Society
 
 <hr class="full">
 
-March, 2024
+November, 2024

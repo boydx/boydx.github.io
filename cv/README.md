@@ -1,6 +1,6 @@
 # Boyd Shearer
 
-## Lecturer
+## Senior Lecturer
 
 Department of Geography, University of Kentucky<br>
 817 Patterson Office Tower<br>
@@ -40,6 +40,7 @@ Courses taught
 
 - MAP 673 Design for Interactive Web Mapping
 - MAP 672 Programming for Web Mapping
+- GEO 409 Advanced GIS
 - GEO 109 Digital Mapping
 
 ### Lecturer, Geography
@@ -140,7 +141,9 @@ Courses taught
 
 ## Presentations
 
-- 2024 [“3D & vector tiles: Open-source and self-hosted web map solutions”](https://newmapsplus.github.io/terrain-vector-tiles/) Kentucky Association of Mapping Professionals annual meeting, October 9.
+- 2025 [“Sun & hill: topographic methods”](https://github.com/boydx/sun-and-hill) University of Kentucky Department of Geography Colloquium Series, February 14.
+
+- 2024 [“Visualizing landscape dynamics: Surface change detection using multi-temporal DSMs”](https://uky-gis.github.io/viz-dsm-change) Kentucky Association of Mapping Professionals annual meeting, October 9.
 
 - 2024 [“Open-source 3D maps in the browser.”](https://github.com/newmapsplus/terrain-vector-tiles) University of Kentucky Earth and Environmental Sciences Department Rast-Holbrook Seminar Series, September 19.
 
@@ -281,4 +284,4 @@ North American Cartographic Association Society
 
 <hr class="full">
 
-November, 2024
+March, 2025

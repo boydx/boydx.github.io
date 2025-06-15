@@ -38,6 +38,8 @@ Instructor for in-class undergraduate classes and online graduate Digital Mappin
 
 Courses taught
 
+- MAP 699 Final Project Implementation
+- MAP 698 Final Project Preparation
 - MAP 673 Design for Interactive Web Mapping
 - MAP 672 Programming for Web Mapping
 - GEO 409 Advanced GIS
@@ -214,7 +216,7 @@ Created thematic maps analyzing demographic trends in the Appalachian region. Fo
 
 ## Map production
 
-A selected list of published maps.
+A selected list of published print maps.
 
 - 2023 _Campus Change, 2010-2019_, <br>(**Won 1st Place for Spatial Analysis** at Kentucky Association of Mapping Professionals annual meeting, October 10-12, 2023)
 - 2021 _Red River Gorge Trail Map_, 6th Edition
@@ -284,4 +286,4 @@ North American Cartographic Association Society
 
 <hr class="full">
 
-March, 2025
+June, 2025

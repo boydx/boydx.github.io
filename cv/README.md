@@ -28,7 +28,7 @@ B.A., Major in Geography, Minor in Studio Fine Arts and Mathematics. 1994
 
 <hr class="full">
 
-## Teaching Experience
+## Teaching & Academic Experience
 
 ### Senior Lecturer, Geography
 
@@ -40,6 +40,7 @@ Courses taught
 
 - MAP 699 Final Project Implementation
 - MAP 698 Final Project Preparation
+- MAP 675 Collaborative Geovisualization
 - MAP 673 Design for Interactive Web Mapping
 - MAP 672 Programming for Web Mapping
 - GEO 409 Advanced GIS
@@ -115,6 +116,8 @@ Courses taught
 
 ### Workshops
 
+- 2023 [Cartography in the Bluegrass](https://github.com/UKy-GIS/CiB)<br> Co-organizer (with Rich Donohue) of event to showcase work by local cartographers.
+
 - 2019-2020 [maptimeLEX series](https://github.com/maptimelex/schedule)<br>Co-organizer (with Rich Donohue) of monthly workshops on open-source mapping tools and techniques.
 
   - "Maximizing Spatial Oomph: unleashing the raw power of monochromatic maps" (September 12, 2019)
@@ -133,7 +136,7 @@ Courses taught
 
 - 2016 and 2015 “UKy Summer Map Camp” <br>University of Kentucky Department of Geography, Summer.
 
-### Teaching Awards and Recognition
+### Awards and Recognition
 
 - 2024 Finalist, "Provost's Outstanding Teaching Award for the 2023-2024." University of Kentucky.
 - 2018 “NRE 355: A Thank you to Boyd Shearer.” Natural Resources and Environmental Science Fall Newsletter.
@@ -142,6 +145,8 @@ Courses taught
 <hr class="full">
 
 ## Presentations
+
+- 2025 [“Inside Outside: Entangled ‌boundaries in Kentucky's city and wilderness public parks”](https://github.com/boydx/inside-outside) 2nd Story Gallery, Lexington, Kentucky, July 24.
 
 - 2025 [“Sun & hill: topographic methods”](https://github.com/boydx/sun-and-hill) University of Kentucky Department of Geography Colloquium Series, February 14.
 
